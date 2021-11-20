@@ -1,0 +1,3154 @@
+<!doctype html>     <html lang="ko" data-dark="false"> <head> <meta charset="uft-8"> <title>NAVER</title> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=1190"> <meta name="apple-mobile-web-app-title" content = "NAVER"/><meta name="robots" content="index,nofollow"/> <meta name="description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/> <meta property="og:title" content="네이버"> <meta property="og:url" content="https://www.naver.com/"> <meta property="og:image" content="https://s.pstatic.net/static/www/mobile/edit/2016/0705/mobile_212852414260.png"> <meta property="og:description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/> <meta name="twitter:card" content="summary"> <meta name="twitter:title" content=""> <meta name="twitter:url" content="https://www.naver.com/"> <meta name="twitter:image" content="https://s.pstatic.net/static/www/mobile/edit/2016/0705/mobile_212852414260.png"> <meta name="twitter:description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/>  <link rel="stylesheet" href="https://pm.pstatic.net/dist/css/nmain.20210826.css"> <link rel="stylesheet" href="https://ssl.pstatic.net/sstatic/search/pc/css/sp_autocomplete_210318.css"> <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?1"/>  <link rel="apple-touch-icon" sizes="114x114" href="https://s.pstatic.net/static/www/u/2014/0328/mma_204243574.png"/> <link rel="apple-touch-icon" href="https://s.pstatic.net/static/www/u/2014/0328/mma_20432863.png"/> <script>document.domain="naver.com",window.nmain=window.nmain||{},window.nmain.supportFlicking=!1;var nsc="navertop.v4",ua=navigator.userAgent;window.nmain.isIE=navigator.appName&&navigator.appName.indexOf("Explorer")>0&&ua.toLocaleLowerCase().indexOf("msie 10.0")<0,document.getElementsByTagName("html")[0].setAttribute("data-useragent",ua),window.nmain.isIE&&(Object.create=function(n){function a(){}return a.prototype=n,new a})</script> <script>var darkmode= false;window.naver_corp_da=window.naver_corp_da||{main:{}},window.naver_corp_da.main=window.naver_corp_da.main||{},window.naver_corp_da.main.darkmode=darkmode,window.gladsdk=window.gladsdk||{cmd:[]},window.gladsdk.cmd.push((function(){window.gladsdk.setHostMeta("theme",darkmode?"dark":"light")}))</script> <script> window.nmain.gv = {  isLogin: "ljm03090",
+userId: "ljm03090",   daInfo: {"ANIMAL":{"menu":"ANIMAL","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000161","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_animal_1","tb":"ANIMAL_1","unit":"SU10567","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000162","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_animal_2","tb":"ANIMAL_1","unit":"SU10568","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"BEAUTY":{"menu":"BEAUTY","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000163","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_beauty_1","tb":"BEAUTY_1","unit":"SU10595","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000164","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_beauty_2","tb":"BEAUTY_1","unit":"SU10596","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"BUSINESS":{"menu":"BUSINESS","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000165","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_business_1","tb":"BUSINESS_1","unit":"SU10577","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000166","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_business_2","tb":"BUSINESS_1","unit":"SU10578","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"CARGAME":{"menu":"CARGAME","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000167","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_cargame_1","tb":"CARGAME_1","unit":"SU10587","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000168","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_cargame_2","tb":"CARGAME_1","unit":"SU10588","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"CHINA":{"menu":"CHINA","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000169","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_china_1","tb":"CHINA_1","unit":"SU10591","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000170","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_china_2","tb":"CHINA_1","unit":"SU10592","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"DESIGN":{"menu":"DESIGN","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000171","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_design_1","tb":"DESIGN_1","unit":"SU10569","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000172","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_design_2","tb":"DESIGN_1","unit":"SU10570","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"FARM":{"menu":"FARM","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000173","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_farm_1","tb":"FARM_1","unit":"SU10561","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000174","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_farm_2","tb":"FARM_1","unit":"SU10562","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"FINANCE":{"menu":"FINANCE","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000175","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_finance_1","tb":"FINANCE_1","unit":"SU10563","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000176","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_finance_2","tb":"FINANCE_1","unit":"SU10564","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"ITTECH":{"menu":"ITTECH","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000177","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_ittech_1","tb":"ITTECH_1","unit":"SU10593","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000178","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_ittech_2","tb":"ITTECH_1","unit":"SU10594","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"JOB":{"menu":"JOB","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000179","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_job_1","tb":"JOB_1","unit":"SU10589","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000180","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_job_2","tb":"JOB_1","unit":"SU10590","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"LAW":{"menu":"LAW","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000181","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_law_1","tb":"LAW_1","unit":"SU10573","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000182","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_law_2","tb":"LAW_1","unit":"SU10574","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"LIVING":{"menu":"LIVING","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000183","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_living_1","tb":"LIVING_1","unit":"SU10597","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000184","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_living_2","tb":"LIVING_1","unit":"SU10606","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"LIVINGHOME":{"menu":"LIVINGHOME","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000185","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_livinghome_1","tb":"LIVINGHOME_1","unit":"SU10571","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000186","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_livinghome_2","tb":"LIVINGHOME_1","unit":"SU10572","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"MOMKIDS":{"menu":"MOMKIDS","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000187","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_momkids_1","tb":"MOMKIDS_1","unit":"SU10575","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000188","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_momkids_2","tb":"MOMKIDS_1","unit":"SU10576","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"MOVIE":{"menu":"MOVIE","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000189","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_movie_1","tb":"MOVIE_1","unit":"SU10585","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000190","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_movie_2","tb":"MOVIE_1","unit":"SU10586","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"SCHOOL":{"menu":"SCHOOL","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000191","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_school_1","tb":"SCHOOL_1","unit":"SU10579","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000192","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_school_2","tb":"SCHOOL_1","unit":"SU10580","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"SHOW":{"menu":"SHOW","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000193","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_show_1","tb":"SHOW_1","unit":"SU10565","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000194","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_show_2","tb":"SHOW_1","unit":"SU10566","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"TRAVEL":{"menu":"TRAVEL","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000195","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_travel_1","tb":"TRAVEL_1","unit":"SU10581","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000196","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_travel_2","tb":"TRAVEL_1","unit":"SU10582","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"WEDDING":{"menu":"WEDDING","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000197","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_wedding_1","tb":"WEDDING_1","unit":"SU10583","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000198","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_wedding_2","tb":"WEDDING_1","unit":"SU10584","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]}},
+svt: 20211109180928,
+}; </script> <script> window.nmain.newsstand = {
+rcode: '02630115',
+newsCastSubsInfo: '',
+newsStandSubsInfo: ''
+};
+window.etc = {  };
+window.svr = "<!--aweb103-->"; </script> <script src="https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js" defer="defer"></script>  <script async src="https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js"></script>    <script src="https://pm.pstatic.net/dist/js/external.b73ab5fb.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/preload.712a5de0.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/polyfill.bfc78988.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script>  <script src="https://pm.pstatic.net/dist/js/vendors~more~nmain~search~sidebar_notice.6dbae479.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script>   <script src="https://pm.pstatic.net/dist/js/search.51239806.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script>  <script src="https://pm.pstatic.net/dist/js/vendors~more~nmain~sidebar_notice.3960240a.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/nmain.627f660e.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <style>:root{color-scheme:light}#_nx_kbd .setkorhelp a{display:none}</style> </head> <body> <div id="u_skip"> <a href="#newsstand"><span>뉴스스탠드 바로가기</span></a> <a href="#themecast"><span>주제별캐스트 바로가기</span></a> <a href="#timesquare"><span>타임스퀘어 바로가기</span></a> <a href="#shopcast"><span>쇼핑캐스트 바로가기</span></a> <a href="#account"><span>로그인 바로가기</span></a> </div> <div id="wrap">         <style>._1syGnXOL{padding-right:18px;font-size:14px;line-height:0;letter-spacing:-.25px;color:#000}._1syGnXOL span,._1syGnXOL strong{line-height:49px}._1syGnXOL:before{display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20210713@2x.png);background-repeat:no-repeat;background-size:116px 112px;width:18px;height:18px;margin:16px 8px 0 0;background-position:-98px 0}[data-useragent*="MSIE 8"] ._1syGnXOL:before{background-image:url(https://static-whale.pstatic.net/main/sprite-20210713.png)}._1syGnXOL._3dsvmZg2:before{background-position:-47px -85px}._1syGnXOL._1NBFx1WK:before{width:20px;height:20px;margin:15px 8px 0 0;background-position:-21px -89px}._1syGnXOL._2mcQEKCd:before{width:22px;height:22px;margin:14px 7px 0 0;background-position:-47px -63px}._1syGnXOL._36slsKuJ:before{width:21px;height:49px;margin:0 14px 0 0;background-position:0 -63px}._1syGnXOL._3di88A4c{padding-right:12px;font-size:17px}._1syGnXOL._3di88A4c:before{content:none}._1syGnXOL ._19K4X1CD{text-decoration:underline}._2aeXMlrb{display:inline-block;position:relative;font-size:12px;height:49px;width:78px;text-decoration:none;color:#fff;font-weight:700;letter-spacing:-.5px;vertical-align:top}._2aeXMlrb span{text-align:center;margin:9px 0;height:31px;display:block;line-height:31px;border-radius:15px}._2aeXMlrb span:before{display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20210713@2x.png);background-repeat:no-repeat;background-size:116px 112px}[data-useragent*="MSIE 8"] ._2aeXMlrb span:before{background-image:url(https://static-whale.pstatic.net/main/sprite-20210713.png)}._2aeXMlrb.BMgpjddw{font-size:11px;width:94px}._2aeXMlrb.BMgpjddw span:before{margin:9px 3px 0 0;width:17px;height:13px;background-position:-89px -63px}._3h-N8T9V{position:absolute;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0)}._1KncATpM{display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20210713@2x.png);background-repeat:no-repeat;background-size:116px 112px;margin-top:14px;float:left;width:98px;height:21px;background-position:0 -21px}[data-useragent*="MSIE 8"] ._1KncATpM{background-image:url(https://static-whale.pstatic.net/main/sprite-20210713.png)}._1KncATpM._2v3uxv2x{background-position:0 0}._1KncATpM._1yl_Ow6o{background-position:0 -42px}._20PYt6lT{font-size:11px;height:49px;cursor:pointer;position:absolute;top:0;right:0;color:#666;opacity:.7}._20PYt6lT:after{width:15px;height:15px;margin-left:4px;background-position:-98px -33px;display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20210713@2x.png);background-repeat:no-repeat;background-size:116px 112px}[data-useragent*="MSIE 8"] ._20PYt6lT:after{background-image:url(https://static-whale.pstatic.net/main/sprite-20210713.png)}._20PYt6lT._39oMCV2N:after{background-position:-98px -18px}._20PYt6lT._3wm5EzmJ{color:#fff}._20PYt6lT._3wm5EzmJ:after{background-position:-65px -85px}._1hiMWemA{height:49px}._1hiMWemA .tY_u8r23{position:relative;width:1130px;margin:0 auto}._1hiMWemA .tY_u8r23 a{text-decoration:none}._1hiMWemA._23U_6TM_{position:relative}._1hiMWemA._23U_6TM_:after{position:absolute;z-index:1;content:"";display:block;width:100%;height:1px;bottom:0;background-color:rgba(0,0,0,.050980392156862744)}
+</style>
+<div id="NM_TOP_BANNER" data-clk-prefix="top" class="_1hiMWemA" style="background-color: #f3f1ff">
+<div class="tY_u8r23">
+<a class="_3h-N8T9V" href="https://whale.naver.com/banner/details/darkmode?=main&wpid=RydDy7"
+data-clk="dropbanner1a"></a><i class="_1KncATpM"><span class="blind">NAVER whale</span></i><img
+src="https://static-whale.pstatic.net/main/img_darkmode@2x.png"
+width="303"
+height="49"
+alt=""
+style="padding-left: 48px"
+/><span
+class="_1syGnXOL _3di88A4c"
+data-clk="dropbanner1a"
+style="padding-right: 10px; color: black; padding-left: 8px"
+><span>여러분의 눈은 소중하니까, </span><strong>지금 바로 다크 모드를 켜세요!</strong></span><a
+href="https://installer-whale.pstatic.net/downloads/banner/RydDy7/WhaleSetup.exe" class="_2aeXMlrb"
+id="NM_whale_download_btn"
+data-clk="dropdownload1a"><span style="background-color: #7c56d5">다운로드</span></a><button
+type="button"
+data-ui-cookie-exp-days="3"
+data-ui-cookie-key="NM_TOP_PROMOTION"
+data-ui-cookie-value="1"
+data-ui-hide-target="#NM_TOP_BANNER"
+data-clk="dropclose1a"
+class="_20PYt6lT _39oMCV2N"
+>
+3일 동안 보지 않기
+</button>
+</div>
+</div>
+  <div id="header" role="banner">
+
+
+
+
+
+
+
+
+<div class="special_bg">
+<div class="group_flex">
+<div class="logo_area">
+<h1 class="logo_default">
+<a href="/" class="logo_naver" data-clk="top.logo"
+><span class="blind">네이버</span></a
+>
+</h1>
+</div>
+<div class="service_area">
+<a id="NM_set_home_btn" href="https://help.naver.com/support/welcomePage/guide.help" class="link_set" data-clk="top.mkhome">네이버를 시작페이지로</a>
+<i class="sa_bar"></i>
+<a href="https://jr.naver.com" class="link_jrnaver" data-clk="top.jrnaver"><i class="ico_jrnaver"></i><span class="blind">쥬니어네이버</span></a>
+<a href="https://happybean.naver.com" class="link_happybin" data-clk="top.happybean"><i class="ico_happybin"></i><span class="blind">해피빈</span></a>
+</div>
+
+<div id="search" class="search_area" data-clk-prefix="sch">
+<form id="sform" name="sform" action="https://search.naver.com/search.naver" method="get" role="search">
+<fieldset>
+<legend class="blind">검색</legend>
+<select id="where" name="where" title="검색 범위 선택" class="blind">
+<option value="nexearch" selected="selected">통합검색</option><option value="post">블로그</option><option value="cafeblog">카페</option><option value="cafe">- 카페명</option><option value="article">- 카페글</option><option value="kin">지식iN</option><option value="news">뉴스</option><option value="web">사이트</option><option value="category">- 카테고리</option><option value="site">- 사이트</option><option value="movie">영화</option><option value="webkr">웹문서</option><option value="dic">사전</option><option value="100">- 백과사전</option><option value="endic">- 영어사전</option><option value="eedic">- 영영사전</option><option value="krdic">- 국어사전</option><option value="jpdic">- 일본어사전</option><option value="hanja">- 한자사전</option><option value="terms">- 용어사전</option><option value="book">책</option><option value="music">음악</option><option value="doc">전문자료</option><option value="shop">쇼핑</option><option value="local">지역</option><option value="video">동영상</option><option value="image">이미지</option><option value="mypc">내PC</option><optgroup label="스마트 파인더"><option value="movie">영화</option><option value="auto">자동차</option><option value="game">게임</option><option value="health">건강</option><option value="people">인물</option></optgroup><optgroup label="네이버 랩"><option>긍정부정검색</option></optgroup>
+</select>
+<input type="hidden" id="sm" name="sm" value="top_hty" />
+<input type="hidden" id="fbm" name="fbm" value="0" />
+<input type="hidden" id="acr" name="acr" value="" disabled="disabled" />
+<input type="hidden" id="acq" name="acq" value="" disabled="disabled" />
+<input type="hidden" id="qdt" name="qdt" value="" disabled="disabled" />
+<input type="hidden" id="ie" name="ie" value="utf8" />
+<input type="hidden" id="acir" name="acir" value="" disabled="disabled" />
+<input type="hidden" id="os" name="os" value="" disabled="disabled" />
+<input type="hidden" id="bid" name="bid" value="" disabled="disabled" />
+<input type="hidden" id="pkid" name="pkid" value="" disabled="disabled" />
+<input type="hidden" id="eid" name="eid" value="" disabled="disabled" />
+<input type="hidden" id="mra" name="mra" value="" disabled="disabled" />
+
+
+
+<div class="green_window" style=''>
+<!-- [AU] data-atcmp-element 에 해당하는 attribute를 추가해주세요. -->
+<input id="query" name="query" type="text" title="검색어 입력" maxlength="255" class="input_text" tabindex="1" accesskey="s" style="ime-mode:active;" autocomplete="off"  placeholder="검색어를 입력해 주세요." onclick="document.getElementById('fbm').value=1;" value="" data-atcmp-element>
+</div>
+<button id="search_btn" type="submit" title="검색" tabindex="3" class="btn_submit" onclick="window.nclick(this,'sch.action','','',event);" style=''>
+<span class="blind">검색</span>
+<span class="ico_search_submit"></span>
+</button>
+</fieldset>
+</form>
+<!-- 한글입력기 -->
+<a href="#" id="ke_kbd_btn" role="button" class="btn_keyboard" onclick="return false;"><span class="blind">한글 입력기</span><span class="ico_keyboard"></span></a>
+<div id="_nx_kbd" style="display:none;"></div>
+<div class="autocomplete">
+<!-- 자동완성 열린 경우 fold 클래스 추가, 딤드인 경우 dim 추가 -->
+<a href="#" role="button" id="nautocomplete" tabindex="2" class="btn_arw _btn_arw fold" aria-pressed="false" data-atcmp-element><span class="blind">자동완성 레이어</span><span class="ico_arr"></span></a>
+</div>
+<!-- 자동완성레이어 -->
+<div id="autoFrame" class="reatcmp" style="display: none;">
+<!-- [AU] data-atcmp-element attribute를 추가해주세요. -->
+<div class="ly_atcmp" data-atcmp-element>
+<div class="api_atcmp_wrap">
+<!-- 최근검색어 -->
+<!-- [AU] _recent_layer 클래스를 추가해주세요. -->
+<div class="atcmp_fixer _recent_layer" style="display:none;">
+<!-- [AU] _recent_header 클래스를 추가해주세요. -->
+<div class="atcmp_header _recent_header">
+<strong class="tit">최근검색어</strong>
+<div class="option">
+<!-- [AU] _delAll 클래스를 추가해주세요. -->
+<a role="button" href="#" class="item _delAll" aria-pressed="false">전체삭제</a>
+</div>
+</div>
+<div class="atcmp_container">
+<!-- [AU] _recent 클래스를 추가해주세요. -->
+<ul class="kwd_lst _recent">
+<!-- 최근검색어 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="history" data-keyword="@in_txt@" attribute를 추가해주세요. -->
+<li class="item _item" data-rank="@rank@" data-template-type="history" data-keyword="@in_txt@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span><span>@txt@</span></span>
+</a>
+<span class="etc">
+<em class="date">@date@.</em>
+<!-- [AU] _del 클래스를 추가해주세요. -->
+<a href="#" role="button" class="bt_item _del" aria-pressed="false"><i class="imsc ico_del">삭제</i></a>
+</span>
+</li>
+</ul>
+<!-- [D] 검색어 저장 꺼진 경우 atcmp_fixer에 type_off 추가 -->
+<!-- [AU] _offMsg 클래스를 추가해주세요. -->
+<div class="kwd_info kwd_off _offMsg" style="display: none;">검색어 저장 기능이 꺼져 있습니다.<br><span class="kwd_dsc">설정이 초기화 된다면 <a href="https://help.naver.com/support/alias/search/word/word_29.naver" class="kwd_help" data-clk="sly.help" target="_blank">도움말</a>을 확인해주세요.</span></div>
+<!-- [D] 검색어 내역 없는 경우 atcmp_fixer에 type_off 추가 -->
+<!-- [AU] _recentNone 클래스를 추가해주세요. -->
+<div class="kwd_info kwd_none _recentNone" style="display: none;">최근 검색어 내역이 없습니다.<br><span class="kwd_dsc">설정이 초기화 된다면 <a href="https://help.naver.com/support/alias/search/word/word_29.naver" class="kwd_help" data-clk="sly.help" target="_blank">도움말</a>을 확인해주세요.</span></div>
+</div>
+<div class="atcmp_footer">
+<span class="side_opt_area">
+<span class="opt_item"><a href="https://help.naver.com/support/service/main.help?serviceNo=605&amp;categoryNo=1991" data-clk="sly.help" target="_blank">도움말</a></span>
+</span>
+<span class="rside_opt_area">
+<span class="opt_item">
+<!-- [AU] _keywordOnOff 클래스를 추가해주세요. -->
+<a href="#" class="close _keywordOnOff">자동저장 끄기</a>
+</span>
+</span>
+</div>
+</div>
+<!-- 자동완성 -->
+<!-- [AU] _atcmp_layer 클래스를 추가해주세요. -->
+<div class="atcmp_fixer _atcmp_layer" style="display:none;">
+<!-- [AU] _words 클래스를 추가해주세요. -->
+<div class="atcmp_container _words">
+<!-- 정답형 템플릿 : 로또당첨번호 -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_3" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_lotto _answer" data-template-type="answer_3" data-code="@code@" data-keyword="@1@">
+<a href="#" class="link_item">
+<span class="common_ico_kwd"><i class="imsc ico_search"></i></span>
+<div class="dsc_area">
+<span class="tit">@5@회차 당첨번호</span>
+<span class="dsc">
+<span class="item">추첨 @13@.</span><span class="item">지급기한 1년</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc lotto">
+<em class="n@6@">@6@</em><em class="n@7@">@7@</em><em class="n@8@">@8@</em><em class="n@9@">@9@</em><em class="n@10@">@10@</em><em class="n@11@">@11@</em><em class="imsc_bf bonus n@12@">@12@</em>
+</span>
+</span>
+</a>
+</div>
+<!-- 정답형 템플릿 : 환율 -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_9" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_exchange _answer" data-template-type="answer_9" data-code="@code@" data-keyword="@1@">
+<!-- [D] 상승 up, 하락 down 추가 -->
+<a href="#" class="link_item @11@">
+<!-- [D] 국가별 class 가나다순
+ZAR 남아프리카 공화국
+NPR 네팔
+NOK 노르웨이
+NZD 뉴질랜드
+TWD 대만
+DKK 덴마크
+RUB 러시아
+MOP 마카오
+MYR 말레이시아
+MXN 멕시코
+MNT 몽골
+USD 미국
+BHD 바레인
+BDT 방글라데시
+VND 베트남
+BRL 브라질
+SAR 사우디아라비아
+SEK 스웨덴
+CHF 스위스
+SGD 싱가포르
+AED 아랍에미리트
+GBP 영국
+EUR 유럽연합
+ILS 이스라엘
+EGP 이집트
+INR 인도
+IDR 인도네시아
+JPY 일본
+CNY 중국
+CZK 체코
+CLP 칠레
+KZT 카자흐스탄
+QAR 카타르
+CAD 캐나다
+KWD 쿠웨이트
+THB 태국
+TRY 터키
+PKR 파키스탄
+PLN 폴란드
+PHP 필리핀
+HUF 헝가리
+AUD 호주
+HKD 홍콩
+-->
+<span class="common_ico_kwd"><i class="imsc ico @12@">@14@</i></span>
+<div class="dsc_area">
+<span class="tit">@txt@<span class="sub">@currency@</span></span>
+<span class="dsc">
+<span class="item"><i class="imsc ico_arr"></i>@8@(@9@%)</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc"><em class="num">@6@</em>원</span>
+</span>
+</a>
+</div>
+<!-- 정답형 템플릿 : 날씨(국내11, 해외12) -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_11" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_weather _answer" data-template-type="answer_11" data-code="@code@" data-keyword="@1@">
+<!-- [D] 상승 up, 하락 down 추가 -->
+<a href="#" class="link_item @12@">
+<span class="common_ico_kwd"><i class="imsc ico_search"></i></span>
+<div class="dsc_area">
+<span class="tit">@txt@</span>
+<span class="dsc">
+<span class="item">@7@, @message@</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc">
+<!-- [D] 날씨별 class
+ico1 맑음(낮)
+ico2 맑음(밤)
+ico3 구름조금(낮)
+ico4 구름조금(밤)
+ico5 구름많음(낮)
+ico6 구름많음(밤)
+ico7 흐림
+ico8 약한비
+ico9 비
+ico10 강한비
+ico11 약한눈
+ico12 눈
+ico13 강한눈
+ico14 진눈깨비
+ico15 소나기
+ico16 안개
+ico17 소낙눈
+ico18 번개뇌우
+ico19 우박
+ico20 황사
+ico21 비또는눈
+ico22 가끔비
+ico23 가끔눈
+ico24 가끔비또는눈
+ico25 흐린후갬
+ico26 뇌우후갬
+ico27 비후갬
+ico28 눈후갬
+ico29 흐려져비
+ico30 흐려져눈
+-->
+<span class="ico_weather"><i class="imsc ico ico@iconNo@">@7@</i></span>
+<em class="degree">@8@<sup class="celsius">°</sup></em>
+</span>
+</span>
+</a>
+</div>
+<!-- 정답형 템플릿 : 사이트 바로가기 -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_17" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_site _answer" data-template-type="answer_17" data-code="@code@" data-keyword="@1@">
+<a href="@5@" class="link_item" target="_blank">
+<span class="common_ico_kwd"><i class="imsc ico_url"></i></span>
+<div class="dsc_area">
+<span class="tit">@txt@</span>
+<span class="dsc">
+<span class="item">@5@</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc">바로가기</span>
+</span>
+</a>
+</div>
+<!-- [AU] _kwd_list 클래스를 추가해주세요. -->
+<ul class="kwd_lst _kwd_list">
+<!-- [AU] 자동완성 검색어 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-rank="@rank@" data-template-type="suggestion" data-keyword="@in_txt@" attribute를 추가해주세요. -->
+<li class="item _item" data-rank="@rank@" data-template-type="suggestion" data-keyword="@in_txt@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span>@txt@</span>
+</a>
+<span class="etc">
+<a href="#" role="button" class="bt_item _add" aria-pressed="false"><i class="imsc ico_insert">추가</i></a>
+</span>
+</li>
+<!-- [AU] 최근검색어 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-rank="@rank@" data-template-type="history" data-keyword="@in_txt@" attribute를 추가해주세요. -->
+<li class="item has_correct _item" data-rank="@rank@" data-template-type="history" data-keyword="@in_txt@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span>@txt@</span>
+</a>
+<span class="etc">
+<!-- 최근검색어 있으면 날짜 표시 -->
+<em class="date">@date@.</em>
+<a href="#" role="button" class="bt_item _add" aria-pressed="false"><i class="imsc ico_insert">추가</i></a>
+</span>
+</li>
+</ul>
+<!-- [AU] 문맥검색 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-rank="@rank@" data-template-type="intend" data-keyword="@transQuery@" attribute를 추가해주세요. -->
+<li class="item has_correct _item" data-rank="@rank@" data-intend-rank="@intendRank@" data-template-type="intend" data-keyword="@transQuery@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span>@query@ <span class="context">@intend@</span></span>
+</a>
+<span class="etc">
+<a href="#" role="button" class="bt_item _add" aria-pressed="false"><i class="imsc ico_insert">추가</i></a>
+</span>
+</li>
+<!-- [D] 선거안내문구 -->
+<!-- [AU] _alert 클래스를 추가해주세요. -->
+<div class="atcmp_alert _alert">
+<div class="dsc_election">
+<p class="dsc">
+<i class="imsc ico_election"></i><span class="_alert_passage"></span>
+</p>
+<span class="dsc_inner">
+<!-- [AU] _alert_passage2 클래스를 추가해주세요. -->
+<span class="_alert_passage2"></span>
+<!-- [AU] _alert_link 클래스를 추가해주세요. -->
+<a href="#" class="link _alert_link" target="_blank">자세히보기</a>
+</span>
+</div>
+</div>
+<!-- [AU] _plus 클래스를 추가해주세요. -->
+<div class="atcmp_plus _plus">
+<div class="dsc_plus">
+<a href="https://help.naver.com/support/alias/search/word/word_16.naver" class="link_dsc" data-clk="sug.cxhelp" target="_blank">관심사를 반영한 컨텍스트 자동완성<i class="imsc ico_help">도움말</i></a>
+</div>
+<div class="switch">
+<!-- [D] 선택시 aria-pressed="ture/false" -->
+<!-- [AU] _plus_btn 클래스를 추가해주세요. -->
+<a role="button" href="#" class="bt_switch active _plus_btn" aria-pressed="false"><i class="imsc ico_option">컨텍스트 자동완성</i></a>
+</div>
+<!-- [AU] _plus_layer 클래스를 추가해주세요. -->
+<div class="layer_plus _plus_layer">
+<strong class="tit">컨텍스트 자동완성</strong>
+<!-- [AU] _plus_layer_isloggedin 클래스를 추가해주세요. -->
+<!-- [AU] style="display:none" 추가해주세요. -->
+<div class="_plus_layer_isloggedin" style="display:none">
+<p class="dsc">ON/OFF 설정은<br>해당기기(브라우저)에 저장됩니다.</p>
+<div class="btn_area">
+<a href="https://help.naver.com/support/alias/search/word/word_16.naver" class="btn btn_view" data-clk="sug.cxlink" target="_blank">자세히</a>
+</div>
+</div>
+<!-- [AU] _plus_layer_isnotloggedin 클래스를 추가해주세요. -->
+<!-- [AU] style="display:none" 추가해주세요. -->
+<div class="_plus_layer_isnotloggedin" style="display:none">
+<p class="dsc"><em class="txt">동일한 시간대/연령/남녀별</em> 사용자 그룹의<br>관심사에 맞춰 자동완성을 제공합니다.</p>
+<div class="btn_area">
+<a href="https://nid.naver.com/nidlogin.login" class="btn btn_login" data-clk="sug.cxlogin">로그인</a>
+<a href="https://help.naver.com/support/alias/search/word/word_16.naver" class="btn btn_view" data-clk="sug.cxlink" target="_blank">자세히</a>
+</div>
+</div>
+<!-- [AU] _plus_layer_close 클래스를 추가해주세요. -->
+<a href="#" role="button" class="btn_close _plus_layer_close"><i class="imsc ico_close">컨텍스트 자동완성 레이어 닫기</i></a>
+</div>
+</div>
+</div>
+<div class="atcmp_footer">
+<span class="side_opt_area">
+<span class="opt_item"><a href="https://help.naver.com/support/service/main.help?serviceNo=605&categoryNo=1987" data-clk="sug.help" target="_blank">도움말</a></span>
+<span class="opt_item"><a href="https://help.naver.com/support/contents/contents.help?serviceNo=605&categoryNo=18215" class="report" data-clk="sug.report" target="_blank">신고</a></span>
+</span>
+<span class="rside_opt_area">
+<span class="opt_item">
+<!-- [AU] _suggestOnOff 클래스를 추가해주세요. -->
+<a href="#" class="close _suggestOnOff">자동완성 끄기</a>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div id="promotion11">
+<a href="https://search.naver.com/search.naver?where=nexearch&amp;sm=top_ros&amp;fbm=0&amp;ie=utf8&amp;query=%EC%86%8C%EB%B0%A9%EC%9D%98+%EB%82%A0" data-clk="top.ann">
+<img src="https://s.pstatic.net/static/www/mobile/edit/20211029/mobile_150854458843.png" width="225" height="56" alt="소방의 날">
+</a>
+</div>
+<div id="gnb">
+<div id="NM_FAVORITE" class="gnb_inner">
+<div class="group_nav">
+<ul class="list_nav type_fix">
+<li class="nav_item">
+<a href="https://mail.naver.com/" class="nav" data-clk="svc.mail"><i class="ico_mail"></i>메일</a>
+</li>
+<li class="nav_item"><a href="https://section.cafe.naver.com/" class="nav" data-clk="svc.cafe">카페</a></li>
+<li class="nav_item"><a href="https://section.blog.naver.com/" class="nav" data-clk="svc.blog">블로그</a></li>
+<li class="nav_item"><a href="https://kin.naver.com/" class="nav" data-clk="svc.kin">지식iN</a></li>
+<li class="nav_item"><a href="https://shopping.naver.com/" class="nav shop" data-clk="svc.shopping"><span class="blind">쇼핑</span></a></li>
+<li class="nav_item"><a href="https://shoppinglive.naver.com/home" class="nav shoplive"
+data-clk="svc.shoppinglive"><span class="blind">쇼핑LIVE</span></a></li>
+<li class="nav_item"><a href="https://order.pay.naver.com/home" class="nav" data-clk="svc.pay">Pay</a></li>
+<li class="nav_item">
+<a href="https://tv.naver.com/" class="nav" data-clk="svc.tvcast"><i class="ico_tv"></i>TV</a>
+</li>
+</ul>
+<ul
+class="list_nav NM_FAVORITE_LIST"
+>
+<li class="nav_item"><a href="https://dict.naver.com/" class="nav" data-clk="svc.dic">사전</a></li>
+<li class="nav_item"><a href="https://news.naver.com/" class="nav" data-clk="svc.news">뉴스</a></li>
+<li class="nav_item"><a href="https://finance.naver.com/" class="nav" data-clk="svc.stock">증권</a></li>
+<li class="nav_item"><a href="https://land.naver.com/" class="nav" data-clk="svc.land">부동산</a></li>
+<li class="nav_item"><a href="https://map.naver.com/" class="nav" data-clk="svc.map">지도</a></li>
+<li class="nav_item"><a href="https://vibe.naver.com/" class="nav" data-clk="svc.vibe">VIBE</a></li>
+<li class="nav_item"><a href="https://book.naver.com/" class="nav" data-clk="svc.book">책</a></li>
+<li class="nav_item"><a href="https://comic.naver.com/" class="nav" data-clk="svc.webtoon">웹툰</a></li>
+
+</ul>
+<ul class="list_nav type_empty" style="display: none;"></ul>
+<a href="#" role="button" class="btn_more" data-clk="svc.more">더보기</a>
+<div class="ly_btn_area">
+<a href="more.html" class="btn NM_FAVORITE_ALL" data-clk="map.svcmore">서비스 전체보기</a>
+<a href="#" role="button" class="btn btn_set" data-clk="map.edit">메뉴설정</a>
+<a href="#" role="button" class="btn btn_reset" data-clk="edt.reset">초기화</a>
+<a href="#" role="button" class="btn btn_save" data-clk="edt.save">저장</a>
+</div>
+</div>
+<div id="NM_WEATHER" class="group_weather">
+<div>
+<a data-clk="squ.weat" href="https://weather.naver.com/today/02630115" class="weather_area ico_w07">
+<div class="current_box">
+<strong class="current" aria-label="현재기온">6.0°</strong><strong class="state">흐림</strong>
+</div>
+<div class="degree_box">
+<span class="min" aria-label="최저기온">1.0°</span><span class="max" aria-label="최고기온">8.0°</span>
+</div>
+<span class="location">고암동</span>
+</a>
+</div>
+<div>
+<a data-clk="squ.dust" href="https://weather.naver.com/today/02630115" class="air_area">
+<ul class="list_air">
+<li class="air_item">미세<strong class="state state_good">좋음</strong></li>
+<li class="air_item">초미세<strong class="state state_good">좋음</strong></li>
+</ul>
+<span class="location">고암동</span>
+</a>
+</div>
+
+</div>
+</div>
+<div class="ly_service">
+<div class="group_service NM_FAVORITE_ALL_LY"></div>
+<div class="group_service NM_FAVORITE_EDIT_LY" style="display: none;"></div>
+</div>
+</div>
+</div>
+ <div id="container" role="main"> <div style="position:relative;width:1130px;margin:0 auto;z-index:11"> <div id="da_top"></div> <div id="da_expwide"></div> </div> <div id="NM_INT_LEFT" class="column_left">  <div id="veta_top"> <iframe id="da_iframe_time" name="da_iframe_time" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10599&amp;nrefreshx=0" data-veta-preview="main_time" title="광고" width="750" height="135" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"> </iframe> <span class="veta_bd_t"></span> <span class="veta_bd_b"></span> <span class="veta_bd_l"></span> <span class="veta_bd_r"></span> </div> <div id="newsstand" class="sc_newscast"> <h2 class="blind">뉴스스탠드</h2> <div id="NM_NEWSSTAND_HEADER" class="group_issue" data-clk-prefix="ncy"> <div class="issue_area"> <a href="http://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y" class="link_media" data-clk="newsflash">연합뉴스</a> <div id="yna_rolling" class="list_issue"> <div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012781091" class="issue" data-clk="quickarticle">정부, '쥐어짜기'로 요소수 8천37t 확보, 8~9일치분…근본대책은 아직</a></div>
+<div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012781006" class="issue" data-clk="quickarticle">여야, 재난지원·손실보상 '쩐 전쟁'…내로남불식 포퓰리즘 공방</a></div>
+<div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012781024" class="issue" data-clk="quickarticle">이재명 "썩은 돈의 악마서 저를 지켜준 갑주는 청렴"</a></div>
+<div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012780811" class="issue" data-clk="quickarticle">'컨벤션 효과'에도 웃지만은 못하는 野…탈당자 75%는 2030</a></div>
+<div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012781012" class="issue" data-clk="quickarticle">2주간 확진자의 48.1% '돌파감염'…13∼17세 학령기 확진자 늘어</a></div>
+<div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012780933" class="issue" data-clk="quickarticle">새 천안함 마주한 유족들 "정말 고맙고,가슴이 너무 저려오네요"</a></div>
+<div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012781059" class="issue" data-clk="quickarticle">서울가정법원, '자녀에게 엄마 성 물려주겠다' 부부 신청 허가</a></div>
+<div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012780496" class="issue" data-clk="quickarticle">"국내판매 화장품 10개 인체유해 우려 성분 검출…기준 필요"</a></div>
+<div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012780903" class="issue" data-clk="quickarticle">'전자발찌 살인' 강윤성 "살인자라니 억울…흉악범 매도"</a></div>
+<div><a href="https://news.naver.com/main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012781039" class="issue" data-clk="quickarticle">내일 서울 아침 체감온도 '0도'…이른 겨울 추위 계속</a></div> </div> </div> <div class="direct_area"> <a href="http://news.naver.com/" class="link_news" data-clk="newshome">네이버뉴스</a>
+<a href="http://entertain.naver.com/home" class="link_direct" data-clk="entertainment">연예</a>
+<a href="http://sports.news.naver.com/" class="link_direct" data-clk="sports">스포츠</a>
+<a href="http://news.naver.com/main/main.nhn?mode=LSD&mid=shm&sid1=101" class="link_direct" data-clk="economy">경제</a> </div> </div>       <div id="NM_NEWSSTAND_TITLE" class="group_title" data-clk-prefix="nsd"> <a href="http://newsstand.naver.com/" class="link_newsstand" data-clk="title" target="_blank">뉴스스탠드</a> <div id="NM_NEWSSTAND_data_buttons" class="sort_area">  <a href="#" role="button" data-type="my" data-clk="my" class="btn_sort">구독한 언론사</a> <a href="#" role="button" data-type="all" data-clk="all" class="btn_sort sort_on">전체언론사</a>  </div> <div id="NM_NEWSSTAND_view_buttons" class="set_area">  <a href="#" role="button" data-type="list" data-clk="articleview" class="btn_set"> <i class="ico_list"><span class="blind">리스트형</span></i></a> <a href="#" role="button" data-type="thumb" data-clk="pressview" class="btn_set set_on"> <i class="ico_tile"><span class="blind">썸네일형</span></i></a>  <a href="http://newsstand.naver.com/config.html" class="btn_set" data-clk="set" target="_blank"> <i class="ico_set"><span class="blind">설정</span></i></a> </div> </div> <div id="NM_NEWSSTAND_VIEW_CONTAINER" style="position:relative"> <div id="NM_NEWSSTAND_DEFAULT_LIST" class="group_news" style="display:none" data-clk-prefix="nsd_all"> <a href="#" role="button" class="pm_btn_prev_l _NM_NEWSSTAND_LIST_prev_btn" data-clk-custom="prev"><i class="ico_btn"><span class="blind">이전</span></i></a> <a href="#" role="button" class="pm_btn_next_l _NM_NEWSSTAND_LIST_next_btn" data-clk-custom="next"><i class="ico_btn"><span class="blind">다음</span></i></a> <div class="list_view"> <div class="option_area"> <div class="list_option_wrap"> <ul class="list_option"> <li class="option_item" data-cateid="ct2"><a href="#" class="option" data-clk="daei">종합/경제</a></li> <li class="option_item" data-cateid="ct3"><a href="#" class="option" data-clk="dtvcom">방송/통신</a></li> <li class="option_item" data-cateid="ct4"><a href="#" class="option" data-clk="dit">IT</a></li> <li class="option_item" data-cateid="ct5"><a href="#" class="option" data-clk="deng">영자지</a></li> <li class="option_item" data-cateid="ct6"><a href="#" class="option" data-clk="dsporent">스포츠/연예</a></li> <li class="option_item" data-cateid="ct7"><a href="#" class="option" data-clk="dmagtec">매거진/전문지</a></li> <li class="option_item" data-cateid="ct8"><a href="#" class="option" data-clk="dloc">지역</a></li> </ul> </div> </div> <div class="_NM_NEWSSTAND_ARTICLE_CONTAINER" data-clk-sub="*a"></div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> <div class="ly_toast NM_NEWSSTAND_TOAST" style="display:none"> <p class="toast_msg">구독한 언론사에 추가되었습니다.</p> </div> </div>   <div id="NM_NEWSSTAND_DEFAULT_THUMB" class="group_news" style="display:block" data-clk-prefix="nsd_all"> <a href="#" role="button" class="pm_btn_prev_l _NM_UI_PAGE_PREV" data-clk-custom="prev"><i class="ico_btn"><span class="blind">이전</span></i></a> <a href="#" role="button" class="pm_btn_next_l _NM_UI_PAGE_NEXT" data-clk-custom="next"><i class="ico_btn"><span class="blind">다음</span></i></a> <div class="_NM_UI_PAGE_CONTAINER" style="height:100%;overflow:hidden" data-clk-sub="*p">   <div style="width: 750px; float: left;">
+<div class="tile_view">
+<div class="frame_area">
+<i class="line to_right1"></i>
+<i class="line to_right2"></i>
+<i class="line to_right3"></i>
+<i class="line to_bottom1"></i>
+<i class="line to_bottom2"></i>
+<i class="line to_bottom3"></i>
+<i class="line to_bottom4"></i>
+<i class="line to_bottom5"></i>
+</div>
+<div class="thumb_area">
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="006"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/006.png"
+height="20"
+alt="미디어오늘"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="006"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="006"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=006"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="006"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="023"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/up/2020/0903/nsd185255316.png"
+height="20"
+alt="조선일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="023"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="023"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=023"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="023"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="422"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/422.png"
+height="20"
+alt="연합뉴스TV"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="422"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="422"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=422"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="422"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="011"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/011.png"
+height="20"
+alt="서울경제"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="011"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="011"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=011"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="011"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="021"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/021.png"
+height="20"
+alt="문화일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="021"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="021"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=021"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="021"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="005"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/005.png"
+height="20"
+alt="국민일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="005"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="005"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=005"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="005"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="030"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/030.png"
+height="20"
+alt="전자신문"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="030"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="030"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=030"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="030"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="277"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/277.png"
+height="20"
+alt="아시아경제"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="277"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="277"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=277"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="277"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="016"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/016.png"
+height="20"
+alt="헤럴드경제"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="016"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="016"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=016"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="016"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="076"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/076.png"
+height="20"
+alt="스포츠조선"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="076"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="076"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=076"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="076"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="109"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/up/2020/0610/nsd151458769.png"
+height="20"
+alt="OSEN"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="109"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="109"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=109"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="109"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="368"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/368.png"
+height="20"
+alt="데일리안"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="368"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="368"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=368"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="368"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="904"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/904.png"
+height="20"
+alt="JTBC"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="904"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="904"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=904"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="904"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="055"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/055.png"
+height="20"
+alt="SBS"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="055"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="055"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=055"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="055"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="038"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/038.png"
+height="20"
+alt="한국일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="038"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="038"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=038"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="038"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="339"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/339.png"
+height="20"
+alt="경기일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="339"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="339"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=339"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="339"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="387"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/387.png"
+height="20"
+alt="인천일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="387"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="387"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=387"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="387"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="338"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/338.png"
+height="20"
+alt="경인일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="338"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="338"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=338"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="338"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="961"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/961.png"
+height="20"
+alt="메트로신문"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="961"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="961"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=961"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="961"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="384"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/384.png"
+height="20"
+alt="한국대학신문"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="384"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="384"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=384"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="384"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="923"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/923.png"
+height="20"
+alt="인민망"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="923"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="923"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=923"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="923"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="958"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/958.png"
+height="20"
+alt="베리타스알파"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="958"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="958"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=958"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="958"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="940"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/940.png"
+height="20"
+alt="스포츠투데이"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="940"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="940"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=940"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="940"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="361"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/361.png"
+height="20"
+alt="채널예스"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="361"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="361"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=361"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="361"
+>기사보기</a
+>
+</div>
+</div>
+</div>
+</div>
+</div>
+  </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br/>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> <div class="ly_toast NM_NEWSSTAND_TOAST" style="display:none"> <p class="toast_msg">구독한 언론사에 추가되었습니다.</p> </div> </div> <div id="NM_NEWSSTAND_MY_LIST" class="group_news" style="display:none" data-clk-prefix="nsd_myn"> <a href="#" role="button" class="pm_btn_prev_l _NM_NEWSSTAND_LIST_prev_btn" data-clk-custom="prev"><i class="ico_btn"></i><span class="blind">이전</span></a> <a href="#" role="button" class="pm_btn_next_l _NM_NEWSSTAND_LIST_next_btn" data-clk-custom="next"><i class="ico_btn"></i><span class="blind">다음</span><span class="blind">다음</span></a> <div class="list_view"> <div class="option_area"> <div class="list_option_wrap"> <ul class="list_option _NM_NEWSSTAND_MY_presslist"> <!-- nvpaperlist:empty --> </ul> </div> </div> <div class="_NM_NEWSSTAND_ARTICLE_CONTAINER" data-clk-sub="*a">  </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 일시 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> </div> <div id="NM_NEWSSTAND_MY_THUMB" class="group_news" style="display:none" data-clk-prefix="nsd_myn"> <a href="#" role="button" class="pm_btn_prev_l _NM_UI_PAGE_PREV" data-clk-custom="prev"><i class="ico_btn"><span class="blind">이전</span></i></a> <a href="#" role="button" class="pm_btn_next_l _NM_UI_PAGE_NEXT" data-clk-custom="next"><i class="ico_btn"><span class="blind">다음</span></i></a> <div class="_NM_UI_PAGE_CONTAINER" data-clk-sub="*p"></div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> </div> <div id="NM_NEWSSTAND_MY_EMPTY" class="group_news" style="display:none"> <div class="error_view"> <div class="error_area"> <strong class="error_msg">구독한 언론사가 없습니다.</strong> <p class="dsc_msg">언론사 구독 설정에서 관심있는 언론사를 구독하시면<br>언론사가 직접 편집한 뉴스들을 네이버 홈에서 바로 보실 수 있습니다.</p> <a href="http://newsstand.naver.com/config.html" class="link_redirect" target="_blank">언론사 구독 설정하기</a> </div> </div> </div> </div> </div> <!-- EMPTY --> <div id="NM_THEMECAST_CONTENTS_CONTAINER"> <div id="themecast" class="sc_themecast id_farm" >
+	<h2 class="blind">주제별 캐스트</h2>
+	<div class="theme_head">
+		<div class="group_title">
+	<div class="title_area">
+		<strong class="title">오늘 읽을만한 글</strong><span class="dsc">주제별로 분류된 다양한 글 모음</span>
+	</div>
+	<div class="info_area">
+
+			<span class="info"><strong class="new">1,764</strong> 개의 글</span>
+
+		<a id="NM_THEME_EDIT_SET" href="#" role="button" class="btn_set" data-clk="tca.like">관심주제 설정</a>
+	</div>
+</div>
+<div class="theme_fix_wrap">
+	<div id="NM_THEME_CATE_GROUPS" class="group_category" data-demo-key="m_14_18">
+		<div class="main_category">
+			<a href="#" role="button" class="pm_btn_prev NM_THEME_PREV" data-clk="tct.prev" style="display: none;">
+				<i class="ico_btn"><span class="blind">이전</span></i>
+			</a>
+			<a href="#" role="button" class="pm_btn_next NM_THEME_NEXT" data-clk="tct.next" style="display: none;">
+				<i class="ico_btn"><span class="blind">다음</span></i>
+			</a>
+			<div id="NM_THEME_CATE_FLICK" class="_NM_UI_PAGE_CONTAINER" style="height: 49px; overflow: hidden;">
+
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_enter"
+									   aria-selected="false"
+									   data-clk="tct.tvc" data-panel-code="ENTER">엔터</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_sports"
+									   aria-selected="false"
+									   data-clk="tct.spo" data-panel-code="SPORTS">스포츠</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_bboom"
+									   aria-selected="false"
+									   data-clk="tct.web" data-panel-code="BBOOM">웹툰</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_cargame"
+									   aria-selected="false"
+									   data-clk="tct.aut" data-panel-code="CARGAME">자동차</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_gameapp"
+									   aria-selected="false"
+									   data-clk="tct.gam" data-panel-code="GAMEAPP">게임</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_ittech"
+									   aria-selected="false"
+									   data-clk="tct.tec" data-panel-code="ITTECH">테크</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_movie"
+									   aria-selected="false"
+									   data-clk="tct.mov" data-panel-code="MOVIE">영화</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_science"
+									   aria-selected="false"
+									   data-clk="tct.sci" data-panel-code="SCIENCE">과학</a>
+								</li>
+
+						</ul>
+					</div>
+
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_finance"
+									   aria-selected="false"
+									   data-clk="tct.fin" data-panel-code="FINANCE">경제M</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_living"
+									   aria-selected="false"
+									   data-clk="tct.fod" data-panel-code="LIVING">레시피</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_travel"
+									   aria-selected="false"
+									   data-clk="tct.tra" data-panel-code="TRAVEL">여행+</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_job"
+									   aria-selected="false"
+									   data-clk="tct.job" data-panel-code="JOB">JOB&amp;</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_culture"
+									   aria-selected="false"
+									   data-clk="tct.bok" data-panel-code="CULTURE">책방</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_design"
+									   aria-selected="false"
+									   data-clk="tct.des" data-panel-code="DESIGN">디자인</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_livinghome"
+									   aria-selected="false"
+									   data-clk="tct.lif" data-panel-code="LIVINGHOME">리빙</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_law"
+									   aria-selected="false"
+									   data-clk="tct.law" data-panel-code="LAW">법률</a>
+								</li>
+
+						</ul>
+					</div>
+
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_animal"
+									   aria-selected="false"
+									   data-clk="tct.ani" data-panel-code="ANIMAL">동물공감</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_health"
+									   aria-selected="false"
+									   data-clk="tct.hea" data-panel-code="HEALTH">건강</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_beauty"
+									   aria-selected="false"
+									   data-clk="tct.bty" data-panel-code="BEAUTY">패션뷰티</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_wedding"
+									   aria-selected="false"
+									   data-clk="tct.wed" data-panel-code="WEDDING">연애·결혼</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_business"
+									   aria-selected="false"
+									   data-clk="tct.bsn" data-panel-code="BUSINESS">비즈니스</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_china"
+									   aria-selected="false"
+									   data-clk="tct.chn" data-panel-code="CHINA">중국</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_farm"
+									   aria-selected="true"
+									   data-clk="tct.far" data-panel-code="FARM">FARM</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_show"
+									   aria-selected="false"
+									   data-clk="tct.sow" data-panel-code="SHOW">공연전시</a>
+								</li>
+
+						</ul>
+					</div>
+
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_momkids"
+									   aria-selected="false"
+									   data-clk="tct.mom" data-panel-code="MOMKIDS">부모i</a>
+								</li>
+
+								<li class="category_item" role="presentation">
+
+
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_with"
+									   aria-selected="false"
+									   data-clk="tct.pub" data-panel-code="WITH">함께N</a>
+								</li>
+
+						</ul>
+					</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+	<div class="theme_cont" data-panel-code="FARM">
+		<div class="group_topstory" data-block-id="6184cf75d01e3bf95b9fbaac" data-block-code="PC-THEME-FARM-EDIT-AREA" data-block-type="BLOCKS" data-template-code="PC-THEMECAST-EDIT-AREA"
+
+	 data-da="margin-top"
+	 >
+
+	<div class="topstory_inner" data-block-id="6184cd78f63ce134c2874422" data-block-code="PC-THEME-FARM-EDIT-AREA-ITEM" data-block-type="A-MATERIAL" data-template-code="IMAGE1"
+
+	 >
+
+
+		<div class="topstory_view ">
+
+
+
+			<a href="https://blog.naver.com/nong-up/222559419677" class="topstory_thumb"
+			   data-clk="tcc_far.editbigimg1"
+			   target="_blank">
+				<img src="https://s.pstatic.net/static/www/mobile/edit/20211108/cropImg_728x360_78301326880630783.jpeg" data-src="https://s.pstatic.net/static/www/mobile/edit/20211108/cropImg_728x360_78301326880630783.jpeg" alt="내년 계란값 어떨까…정부 당국자 예상은?" width="364" height="180">
+
+
+					<span class="thumb_bd"></span>
+
+			</a>
+			<a href="https://blog.naver.com/nong-up/222559419677" class="topstory_info"
+			   data-clk="tcc_far.editbigtxt1"
+			   target="_blank">
+
+					<em class="theme_category">오늘의 FARM 이야기</em>
+
+
+				<strong class="title  ">내년 계란값 어떨까…정부 당국자 예상은?</strong>
+
+					<p class="desc">축산은 가축을 번식하고 길러 고기, 가죽, 알, 젖 등 생활에 유용한 물질을 생산하는 농업의 한 부분이다. 축산정책은 축산물을 안정적으로 생산하는 한편 그 과정에서 발생하는 환경 문제를 관리하는 것까지 아우른다. 신종코로나바이러스감염증(코로나19), 아프리카돼지열병(ASF), 조류인플루엔자(AI) 같은 질병은 축산업에 대해 다시 한번 깊게 생각하는 계기가  </p>
+
+
+
+					<div class="source_area">
+						<span class="source"><span class="source_inner">더농부</span></span>
+					</div>
+
+			</a>
+
+		</div>
+
+</div>
+<div class="topstory_inner" data-block-id="6184cf5d454c9304c8f43296" data-block-code="PC-THEME-FARM-EDIT-AREA-ITEM" data-block-type="MATERIALS" data-template-code="IMAGE3"
+
+	 >
+
+	<div class="list_theme_wrap type_topstory">
+		<ul class="list_theme">
+
+			<li class="theme_item">
+
+
+				<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32672808" class="theme_thumb" data-clk="tcc_far.editsmallimg1" target="_blank">
+					<img src="https://s.pstatic.net/static/www/mobile/edit/20211105/cropImg_196x196_78033786408518894.jpeg" data-src="https://s.pstatic.net/static/www/mobile/edit/20211105/cropImg_196x196_78033786408518894.jpeg" alt="약용버섯 대표주자!" width="98" height="98">
+
+
+						<span class="thumb_bd"></span>
+
+				</a>
+				<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32672808" class="theme_info" data-clk="tcc_far.editsmalltxt1" target="_blank">
+					<em class="theme_category">먹거리</em>
+					<strong class="title">약용버섯 대표주자! <br>놀라운 능력 지닌 OO</strong>
+					<div class="source_box">
+						<span class="source"><span class="source_inner">더농부</span></span>
+					</div>
+				</a>
+			</li>
+
+			<li class="theme_item">
+
+
+				<a href="https://tv.naver.com/v/23316229" class="theme_thumb" data-clk="tcc_far.editsmallimg2" target="_blank">
+					<img src="https://s.pstatic.net/static/www/mobile/edit/20211109/cropImg_196x196_78356887548219118.jpeg" data-src="https://s.pstatic.net/static/www/mobile/edit/20211109/cropImg_196x196_78356887548219118.jpeg" alt="몇 년 뒤에는" width="98" height="98">
+
+
+						<span class="thumb_bd"></span>
+
+				</a>
+				<a href="https://tv.naver.com/v/23316229" class="theme_info" data-clk="tcc_far.editsmalltxt2" target="_blank">
+					<em class="theme_category">영상으로 보는 FARM</em>
+					<strong class="title">몇 년 뒤에는 <br>커피가 사치품?</strong>
+					<div class="source_box">
+						<span class="source"><span class="source_inner">네이버FARM TV</span></span>
+					</div>
+				</a>
+			</li>
+
+			<li class="theme_item">
+
+
+				<a href="https://blog.naver.com/yestv_blog/222552552845" class="theme_thumb" data-clk="tcc_far.editsmallimg3" target="_blank">
+					<img src="https://s.pstatic.net/static/www/mobile/edit/20211105/cropImg_196x196_78034239669586813.jpeg" data-src="https://s.pstatic.net/static/www/mobile/edit/20211105/cropImg_196x196_78034239669586813.jpeg" alt="차량·코스·숙박 OK!" width="98" height="98">
+
+
+						<span class="thumb_bd"></span>
+
+				</a>
+				<a href="https://blog.naver.com/yestv_blog/222552552845" class="theme_info" data-clk="tcc_far.editsmalltxt3" target="_blank">
+					<em class="theme_category">농어촌GO</em>
+					<strong class="title">차량·코스·숙박 OK! <br>팔도장터관광열차 &#x27;춘천 편&#x27;</strong>
+					<div class="source_box">
+						<span class="source"><span class="source_inner">소상공인방송</span></span>
+					</div>
+				</a>
+			</li>
+
+		</ul>
+	</div>
+</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-0" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="1"
+	 >
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_8ad4d77a-3dcc-11ec-ab32-d5f2e4a11a67" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32679007" class="theme_thumb" data-clk="tcc_far.list1cont1" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636073291102BUeLj.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636073291102BUeLj.jpg%22&amp;type&#x3D;nf340_228" alt="54년째 한자리 지키는 추억 속 그 빵집" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32679007" class="theme_info" data-clk="tcc_far.list1cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">54년째 한자리 지키는 추억 속 그 빵집</strong>
+						<p class="desc">얼마 남지 않은 가을이 아쉽기만 한 10월 마지막 주 월요일 아침. 제법 쌀쌀해진 아침 날씨에 출근길을 재촉할 시간이지만, 고소한 냄새가 발길을 멈추게 한다. 따뜻한 커피 한 잔에 갓 구운 빵 한 조각 생각이 절로 난다. 발길이 머문 곳은 강원 춘천시 중앙로 독일제빵. 54년째 한자리를 지키고 있는 빵집이다. 130㎡(약 39평) 남짓한 제과</p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">한국일보</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_624b08b2-3dcc-11ec-ab32-df0a01300f4b" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222536918625" class="theme_thumb" data-clk="tcc_far.list1cont2" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636078315081dJLE2.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636078315081dJLE2.jpg%22&amp;type&#x3D;nf340_228" alt="들깨 생산 과정 ‘기계화’로 노동력 절감한다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222536918625" class="theme_info" data-clk="tcc_far.list1cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">들깨 생산 과정 ‘기계화’로 노동력 절감한다</strong>
+						<p class="desc">들깨 정선석발기 기계기술 및 이용 효과 들깨는 병해충 발생이 적고 들짐승에 의한 피해가 거의 없어 다른 작물에 비해 재배가 수월한 편이다. 더구나 가공품 수요 증가와 기능성 소재로 쓰이면서 농가가 선호하는 소득 작물로 자리 잡으면서 2019년 기준 재배면적은 약 3만7000㏊에 이른다. 하지만 들깨 탈곡 후 이물질 제거는 체와 키 또는 풍구를 이용하는데 힘</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_624b08b3-3dcc-11ec-ab32-d55c5c4c5ff4" data-da-position="true">
+					<a href="https://blog.naver.com/mifaffgov/222527469140" class="theme_thumb" data-clk="tcc_far.list1cont3" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636078545506zCgaQ.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636078545506zCgaQ.jpg%22&amp;type&#x3D;nf340_228" alt="&#x27;딸기 스마트팜&#x27;에 꽂혀 귀농한 서울대 출신" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/mifaffgov/222527469140" class="theme_info" data-clk="tcc_far.list1cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">'딸기 스마트팜'에 꽂혀 귀농한 서울대 출신</strong>
+						<p class="desc">[내 일을 만드는 사람들] ICT기반 스마트팜과 함께 성공을 향한 끝없는 노력 엄댕 작가가 들려주는 청년농부들의 창업 이야기! 🍓내 일을 만드는 사람들🍓 &#x27;포천딸기힐링팜&#x27; 안해성 대표 일 년 내내 균일한 온도를 유지하며 쾌적한 환경을 자랑하는 수경재배딸기온실. 12월 딸기 수확철을 맞아 탐스럽게 익은 새빨간 딸기가 주렁주렁 열린 것을 보는 것만으로도..</p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">새농이</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_327d725f-4061-11ec-a54a-ef00733dd899" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222559179883" class="theme_thumb" data-clk="tcc_far.list1cont4" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_16360760590095MNzO.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_16360760590095MNzO.jpg%22&amp;type&#x3D;nf340_228" alt="땅도 결혼과 같다…맞춰 살든가 헤어지든가" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222559179883" class="theme_info" data-clk="tcc_far.list1cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">땅도 결혼과 같다…맞춰 살든가 헤어지든가</strong>
+						<p class="desc">좋은 것만 보고 속아서 사게 되는 땅 맞춰 살든가 그게 안 되면 헤어지든가 “땅을 하나 계약을 했는데요. 문제가 없는지 좀 봐 줄 수 있나요?” “궁금하신 게 뭐죠?” “집을 지을 수 있는지 해서요?” “주소를 한 번 보내줘 보세요.” 아는 사람이 전화를 했습니다. 식당 일을 하는데 나이를 먹으니 힘도 들고 건강도 많이 나빠졌습니다. 부부가 공기 좋은 곳에</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-VIDEO-0" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-VIDEO-LIST"
+
+	 data-index=""
+	 data-page="1"
+	 >
+
+	<div class="media_view_wrap type_column">
+		<div class="media_view">
+
+				<a href="https://m.tv.naver.com/v/23316229" class="media_area" data-gdid="CAS_796445c6-3dcc-11ec-ab32-0f52cbeafa23" data-clk="tcc_far.video1cont1" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636073544501KsfIA.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636073544501KsfIA.jpg%22&amp;type&#x3D;nf464_260" alt="몇 년 뒤에는 커피가 사치품?" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">01:46</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">몇 년 뒤에는 커피가 사치품?</strong>
+							<div class="source_wrap">
+								<span class="date">6일 전</span>
+								<span class="source"><span class="source_inner">네이버FARM TV</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+
+				<a href="https://m.tv.naver.com/v/22488828" class="media_area" data-gdid="CAS_796445c8-3dcc-11ec-ab32-2bf74cb0e7ed" data-clk="tcc_far.video1cont2" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636074255123YxlBC.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636074255123YxlBC.jpg%22&amp;type&#x3D;nf464_260" alt="눈 호강하며 일하는 &#x27;이곳&#x27;" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">01:35</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">눈 호강하며 일하는 '이곳'</strong>
+							<div class="source_wrap">
+								<span class="date">1개월 전</span>
+								<span class="source"><span class="source_inner">네이버FARM TV</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+
+				<a href="https://m.tv.naver.com/v/23259909" class="media_area" data-gdid="CAS_796445c7-3dcc-11ec-ab32-632f0ca49767" data-clk="tcc_far.video1cont3" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636073804085wUDE2.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636073804085wUDE2.jpg%22&amp;type&#x3D;nf464_260" alt="미래를 지킬 영웅은 감자?" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">03:32</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">미래를 지킬 영웅은 감자?</strong>
+							<div class="source_wrap">
+								<span class="date">1주일 전</span>
+								<span class="source"><span class="source_inner">KBS뉴스</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+
+		</div>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-1" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="1"
+	 >
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_862ef6af-3dcc-11ec-a335-4963d8465269" data-da-position="true">
+					<a href="https://blog.naver.com/nhicblog/222520624700" class="theme_thumb" data-clk="tcc_far.list2cont1" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636072844886vXw2j.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636072844886vXw2j.jpg%22&amp;type&#x3D;nf340_228" alt="감칠맛에 최고! 비타민D 저장고 표고버섯" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nhicblog/222520624700" class="theme_info" data-clk="tcc_far.list2cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">감칠맛에 최고! 비타민D 저장고 표고버섯</strong>
+						<p class="desc">한낮에는 무덥지만, 아침저녁으로는 제법 쌀쌀하다. 가을이 저 멀리서 성큼 다가오는 것 같다. 가을 하면 진한 향의 표고버섯이 떠오른다. 쫄깃쫄깃한 식감 덕분에 ‘숲속의 고기’라는 애칭으로 불리고 있는 표고버섯은 가을이면 단풍이 물드는 것처럼 그 향과 맛, 영양이 농축된다. 비타민D를 머금은 향과 맛이 진한 표고버섯 생 표고버섯은 신선한 향과 맛을 즐길 수 </p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">국민건강보험공단</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_327d7260-4061-11ec-a54a-1351f3600a7f" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32682791" class="theme_thumb" data-clk="tcc_far.list2cont2" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635989773824Ng94b.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635989773824Ng94b.jpg%22&amp;type&#x3D;nf340_228" alt="조선시대 3대 떡 절편, 담백한 맛의 비결은?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32682791" class="theme_info" data-clk="tcc_far.list2cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">조선시대 3대 떡 절편, 담백한 맛의 비결은?</strong>
+						<p class="desc">백설기, 수수팥경단, 오색송편을 ‘백일상 3종 떡’이라고 부릅니다. 왜 이 떡들을 올리는 걸까요? 백설기에는 아이가 순수하고 깨끗하게 살기 바라는 마음이 담겨있습니다. 붉은색의 수수팥경단은 귀신이나 액운을 쫓는다는 의미이고, 오색송편은 만물의 조화를 상징합니다. 그렇다면 환갑 잔치에는 어떤 떡을 먹을까요? 환갑 잔치에 온 손님들에게는 </p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_327d7262-4061-11ec-a54a-518bab9c8a7d" data-da-position="true">
+					<a href="https://blog.naver.com/nhicblog/222542945324" class="theme_thumb" data-clk="tcc_far.list2cont3" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635990047480EHDR0.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635990047480EHDR0.jpg%22&amp;type&#x3D;nf340_228" alt="흑당은 건강하다? 설탕의 종류와 효능" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nhicblog/222542945324" class="theme_info" data-clk="tcc_far.list2cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">흑당은 건강하다? 설탕의 종류와 효능</strong>
+						<p class="desc">설탕은 우리 식생활에 없어서는 안 될 재료 중 하나다. 그러나 비만과 당뇨 등 만성 질환의 주요 원인으로 꼽히기도 한다. 세계 각국 정부는 ‘설탕과의 전쟁’을 선포하며 당류 과다 섭취에 대해 경고하고 있다. 이러한 흐름에 발맞춰 설탕 섭취를 제한하거나 건강한 단맛을 찾는 사람들이 늘고 있다. 설탕은 익숙한 백설탕을 비롯해 황설탕, 흑설탕, 그리고 최근 인기</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">국민건강보험공단</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_5c7189de-3dcc-11ec-a335-c9cd757844fa" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32621708" class="theme_thumb" data-clk="tcc_far.list2cont4" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636078613487atLFu.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636078613487atLFu.jpg%22&amp;type&#x3D;nf340_228" alt="소다맛·로제맛까지…신세대 호빵의 맛은?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32621708" class="theme_info" data-clk="tcc_far.list2cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">소다맛·로제맛까지…신세대 호빵의 맛은?</strong>
+						<p class="desc">신세대가 2050년 입맛을 말하나...? 안녕하세요 밥심이에요~( •͈ᴗ•͈)◞ GS25에 삼립호빵 신상이 나왔다길래 바로 사 왔어요~ 파란색 비주얼의 소다맛 호빵에 바로 눈이 가서 바로 달려갔지요ㅎㅎ 그런데 어딜 가도 재고가 없었어요ㅠㅠ 사장님께 여쭤보니, 원래 있었는데 손님들이 안 사 가서 소다맛 호빵만 뺐다는 거예요.(*꒦ິ⌓꒦ີ)  다음 날 찾아가 </p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">밥심언니</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-VIDEO-1" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-VIDEO-LIST"
+
+	 data-index=""
+	 data-page="1"
+	 >
+
+	<div class="media_view_wrap type_column">
+		<div class="media_view">
+
+				<a href="https://m.tv.naver.com/v/23291812" class="media_area" data-gdid="CAS_01758c7f-3d0e-11ec-85cc-fda81c5bd39c" data-clk="tcc_far.video2cont1" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991755918dtCAu.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991755918dtCAu.jpg%22&amp;type&#x3D;nf464_260" alt="밀 연구팀은 빵 많이 먹을까?" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">07:13</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">밀 연구팀은 빵 많이 먹을까?</strong>
+							<div class="source_wrap">
+								<span class="date">1주일 전</span>
+								<span class="source"><span class="source_inner">네이버FARM TV</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+
+				<a href="https://m.tv.naver.com/v/23322050" class="media_area" data-gdid="CAS_01758c80-3d0e-11ec-85cc-bbede6ed13bb" data-clk="tcc_far.video2cont2" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991850075ii2z6.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991850075ii2z6.jpg%22&amp;type&#x3D;nf464_260" alt="키위밭 사나이의 농사 철칙" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">02:30</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">키위밭 사나이의 농사 철칙</strong>
+							<div class="source_wrap">
+								<span class="date">5일 전</span>
+								<span class="source"><span class="source_inner">생방송 오늘 저녁</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+
+				<a href="https://m.tv.naver.com/v/16655581" class="media_area" data-gdid="CAS_01758c81-3d0e-11ec-85cc-099ddfefb4a0" data-clk="tcc_far.video2cont3" target="_blank">
+					<div class="media_thumb">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991799875QtigE.jpg%22&amp;type&#x3D;nf464_260" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991799875QtigE.jpg%22&amp;type&#x3D;nf464_260" alt="건강하게 맛있는 &#x27;채소 멘보샤&#x27;" width="232" height="130">
+						<span class="thumb_dim"></span>
+						<span class="thumb_bd"></span>
+						<i class="pm_ico_play"><span class="blind">재생</span></i>
+						<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">01:30</em></span>
+					</div>
+					<div class="media_info">
+						<div class="info_box">
+							<strong class="title">건강하게 맛있는 '채소 멘보샤'</strong>
+							<div class="source_wrap">
+								<span class="date">11개월 전</span>
+								<span class="source"><span class="source_inner">네이버FARM TV</span></span>
+							</div>
+						</div>
+					</div>
+				</a>
+
+		</div>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-2" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="2"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_327d7261-4061-11ec-a54a-5b12ab4eea36" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32509547" class="theme_thumb" data-clk="tcc_far.list3cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635989464952s8qVc.jpg%22&amp;type&#x3D;nf340_228" alt="5년차 사과 농부가 찾은 새 쫓는 노하우" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32509547" class="theme_info" data-clk="tcc_far.list3cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">5년차 사과 농부가 찾은 새 쫓는 노하우</strong>
+						<p class="desc">충북 제천시 민부기 농원 민부기 대표 충청북도 제천에서 4958㎡(1500평) 규모로 사과농사를 시 작한 민부기 대표. 그는 햇수로 농사 5년차에 접어들었다. 그러나 농사를 시작한지 얼마 안 된 민 대표에게 농사는 여 전히 어려운 숙제다. 특히 착색기 사과를 쪼아 먹는 새들 을 볼 때면 한숨이 앞섰다고. 하지만 지테크 ‘훠이’를 사용하 고부터 조류 피해 걱</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">월간원예</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_6a336b73-3dcc-11ec-a335-8552ba1eacda" data-da-position="true">
+					<a href="https://blog.naver.com/pink97sh/222557135949" class="theme_thumb" data-clk="tcc_far.list3cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636076763590NfF3B.jpg%22&amp;type&#x3D;nf340_228" alt="애증의 레몬 버베나, 월동 준비로 &#x27;무장&#x27;" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/pink97sh/222557135949" class="theme_info" data-clk="tcc_far.list3cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">애증의 레몬 버베나, 월동 준비로 '무장'</strong>
+						<p class="desc">애증의 관계 허브 집사를 하면서 정말 쉽지 않은 녀석 중의 하나가 바로 레몬 버베나이다. 우리나라 기후와 맞지 않아 노지 월동이 어려운 것은 물론 실내 재배 시 흰 가루이로 고생고생 ㅠ.ㅠ 아무리 수형을 가꾸려고 해도 조금만 방심하면 칠렐레팔렐레... 목대는 또 왜 그리 가느다란지 3년 차 나무인데 아직 갈 길이 멀다. 그럼에도 이 녀석을 놓지 못하는 이유</p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">제이</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_0c36a765-32cf-11ec-9bfe-ad98532b4c20" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222551139860" class="theme_thumb" data-clk="tcc_far.list3cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211028_1095%2Fupload_1635407706271vgPRr.jpg%22&amp;type&#x3D;nf340_228" alt="김장철 앞두고 김장 채소 할인 행사 열린다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222551139860" class="theme_info" data-clk="tcc_far.list3cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">김장철 앞두고 김장 채소 할인 행사 열린다</strong>
+						<p class="desc">농림축산식품부가 본격적인 김장철을 앞두고 김장채소 수급안정 대책을 추진한다고 28일 밝혔다. 농식품부는 주요 김장 품목 구입에 어려움이 없도록 김장철 기간 동안 공급을 대폭 확대할 계획이다. 배추는 김장철인 11월 하순부터 12월 상순 동안 시장 출하 물량을 하루 평균 190t에서 260t으로 늘린다. 무, 고추, 마늘 등의 채소는 가격이 안정적일 것으로 </p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_0c36a766-32cf-11ec-9bfe-a14ff56a6729" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222557435872" class="theme_thumb" data-clk="tcc_far.list3cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_1635921729279IeO81.jpg%22&amp;type&#x3D;nf340_228" alt="농식품부, 농지투기 의심 농업법인 특별조사" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222557435872" class="theme_info" data-clk="tcc_far.list3cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">농식품부, 농지투기 의심 농업법인 특별조사</strong>
+						<p class="desc">농림축산식품부가 농지투기가 의심되는 농업법인에 대한 특별조사를 진행할 계획이라고 3일 밝혔다. 농식품부는 최근 국회 국정감사, 감사원 감사 등을 통해 알게 된 농지투기가 의심되는 농업법인을 대상으로 특별조사를 추진한다. 이번 조사 대상은 최근 5년간 농지취득자격증명을 다수 발급받은 법인, 상호․목적사업에 ‘부동산’, ‘개발’, ‘리츠’ 등이 포함된 법인이다</p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_71f8dc58-3dcc-11ec-a335-e5730f136f55" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222537566442" class="theme_thumb" data-clk="tcc_far.list3cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636076029076Xm1eP.jpg%22&amp;type&#x3D;nf340_228" alt="벼는 진화 중! 밥맛 좋고 병에도 강한 품종 나왔다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222537566442" class="theme_info" data-clk="tcc_far.list3cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">벼는 진화 중! 밥맛 좋고 병에도 강한 품종 나왔다</strong>
+						<p class="desc">‘신동진’은 농촌진흥청에서 1999년에 개발한 품종으로 2018년부터 우리나라에서 가장 넓은 면적에서 재배되고 있는 우수한 품종이다. ‘신동진’은 기존의 일반벼보다 쌀알이 1.3배가량 큰 중대립종으로 사람의 눈으로도 구분이 쉽게 되어 다른 쌀과 섞이는 것을 막을 수 있으며, 밥맛이 우수하여 단일 품종 브랜드 쌀로서 소비자에게 인기가 높다. 하지만 넓은 면적</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-3" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="2"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_862ef6ad-3dcc-11ec-a335-5782030818f0" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32592621" class="theme_thumb" data-clk="tcc_far.list4cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211022_1095%2Fupload_16348701681372jy2v.jpg%22&amp;type&#x3D;nf340_228" alt="WHO가 최고의 채소라고 극찬한 ‘이것’" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32592621" class="theme_info" data-clk="tcc_far.list4cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">WHO가 최고의 채소라고 극찬한 ‘이것’</strong>
+						<p class="desc">뼈 건강을 위한 필수 영양소라 불리는 칼슘. 사실 칼슘은 뼈 건강에도 좋지만 혈액순환을 원활하게 해 신진대사를 촉진하여 고혈압과 당뇨, 비만 등의 질병을 완화시켜줍니다. 미국 FDA는 칼슘을 많이 섭취하면 직장암의 위험을 낮출 수 있다고 밝히기도 했는데요. 꼭 우유나 치즈 등 널리 알려진 동물성 식품으로만 칼슘을 보충할 수 있는 건 아닙니다. 우유를 먹으면</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">플랜비연구소</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_6a336b72-3dcc-11ec-a335-7f100774d77d" data-da-position="true">
+					<a href="https://blog.naver.com/jimmirin2/222532716818" class="theme_thumb" data-clk="tcc_far.list4cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636076425309XgBdT.jpg%22&amp;type&#x3D;nf340_228" alt="츠유 나팔꽃 색깔 변화 보는 재미에 빠졌다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/jimmirin2/222532716818" class="theme_info" data-clk="tcc_far.list4cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">츠유 나팔꽃 색깔 변화 보는 재미에 빠졌다</strong>
+						<p class="desc">요즘 나팔꽃이나 코스모스같이 품종개량된 야생화에 재미가 들려 이것저것 심고 꽃이 피길 기다리는 재미로 계절을 하나하나 넘기고 있습니다. 풍차 나팔꽃으로 몇 해 화려함을 맛보고 또 다른 나팔꽃이 궁금해 심은 것이 츠유 나팔꽃 그리고 하나 더 있답니다. (나머지 하나는 아직 관찰 중입니다.) 화려한 풍차 나팔꽃을 여러 해 보다 보니 파스텔톤의 나팔꽃이 눈에 들</p>
+						<div class="source_box">
+							<span class="date">4주일 전</span>
+							<span class="source"><span class="source_inner">멜보링</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_bc29f55d-3d35-11ec-85cc-0995f7a65fb2" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32667886&amp;memberNo&#x3D;37273848" class="theme_thumb" data-clk="tcc_far.list4cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635993114983Il2h6.jpg%22&amp;type&#x3D;nf340_228" alt="이맘때 꼭 생각나는 추억의 엄마표 간식" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32667886&amp;memberNo&#x3D;37273848" class="theme_info" data-clk="tcc_far.list4cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">이맘때 꼭 생각나는 추억의 엄마표 간식</strong>
+						<p class="desc">사랑과 정성으로 만들어요  언제나 우리 아이에게 좋은 것만 먹이고 싶은 것이 모든 엄마들의 마음. 안심하고 구입할 수 있는 먹을거리가 줄어들면서 엄마들이 직접 아이들 간식 만들기에 나섰다. 싱싱한 유기농 채소부터 유기농 밀가루, 천연 조미료 등 친환경 재료로 만드는 우리 아이 유기농 영양 간식. (자료 ORGANICLIFE DB)  방영아 요리연구가 &amp;am</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">오가닉라이프신문</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_bc29f55c-3d35-11ec-85cc-1957d75baa7c" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32642866&amp;memberNo&#x3D;35869883" class="theme_thumb" data-clk="tcc_far.list4cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_16359931450785EbxK.jpg%22&amp;type&#x3D;nf340_228" alt="찬 기운 내보내 감기예방하는 음식 BEST 5" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32642866&amp;memberNo&#x3D;35869883" class="theme_info" data-clk="tcc_far.list4cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">찬 기운 내보내 감기예방하는 음식 BEST 5</strong>
+						<p class="desc">생강 몸의 찬 기운을 밖으로 내보내고 따뜻함을 유지해 감기 예방에 좋습니다. 생강에 함유된 진저롤과 쇼가올 성분이 혈액순환을 활성화해 몸과 신체 내부를 따뜻하게 유지합니다. 수족냉증 개선에도 효과적입니다. 단호박 베타카로틴이 풍부해 산소 공급과 혈액순환에 도움을 주고 체온 유지에도 효과적입니다. 피로회복을 도와주는 비타민C도 풍부하게 들어있습니다. 단호박 </p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_097c735a-3d0e-11ec-9fd8-7b0e74ba510b" data-da-position="true">
+					<a href="https://blog.naver.com/futurehope2017/222557442026" class="theme_thumb" data-clk="tcc_far.list4cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991021083GsDTY.jpg%22&amp;type&#x3D;nf340_228" alt="상주의 시골 풍경 디자인 상품에 담아내다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/futurehope2017/222557442026" class="theme_info" data-clk="tcc_far.list4cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">상주의 시골 풍경 디자인 상품에 담아내다</strong>
+						<p class="desc">“청년과 지방이 만날 수 있는 접점이 많아져야 해요” 조우리 이인삼각 협동조합 대표 저출산고령화의 위기는 수도권보다 지방에 더 크게 다가옵니다. 청년이 수도권에 몰리면서 ‘지방소멸’이라는 말까지 들려오는 현실입니다. 이러한 지방소멸을 막기 위해서 어떤 노력이 필요할까요? 저출산고령사회위원회가 주최했던 &lt;8개 대통령직속위원회 토론회&gt;에서는 “인구사회...</p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">저출산고령사회위원회</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-4" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="3"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_f13c9e37-3fcd-11ec-ab32-03859ac1a6b8" data-da-position="true">
+					<a href="https://blog.naver.com/barndining_/222536738217" class="theme_thumb" data-clk="tcc_far.list5cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_1635909501744JliDq.jpg%22&amp;type&#x3D;nf340_228" alt="나이대별 챙겨 먹어야 하는 무, 팥, 늙은 호박" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/barndining_/222536738217" class="theme_info" data-clk="tcc_far.list5cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">나이대별 챙겨 먹어야 하는 무, 팥, 늙은 호박</strong>
+						<p class="desc">What is the October Food for You? 무, 팥, 늙은 호박 50-60대를 위한 &#x27;무&#x27; 소화불량과 더부룩한 증세를 호소하기 쉬운 50-60대를 위한 추천 재료는 바로 무다. 천연 소화제라는 별명을 지닌 무에는 소화를 돕는 각종 효소가 가득한데, 지방 분해 효소인 리파아제와 탄수화물을 분해하는 디아스타아제가 대표적이다. 그러므로 탄수화물</p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">바앤다이닝</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_88cd1235-3d0e-11ec-85cc-ed7ff29525fa" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222536965887" class="theme_thumb" data-clk="tcc_far.list5cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211027_1095%2Fupload_16353015861860L8Ka.jpg%22&amp;type&#x3D;nf340_228" alt="크림꿀과 꽃으로 낭만과 건강 모두 잡았다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222536965887" class="theme_info" data-clk="tcc_far.list5cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">크림꿀과 꽃으로 낭만과 건강 모두 잡았다</strong>
+						<p class="desc">코로나19 영향으로 스프레드 시장이 확대되고 있다. 스프레드는 빵에 발라 먹는 잼, 버터 등의 식품을 가리킨다. 집에서 끼니를 해결하는 시간이 늘면서 빵 소비가 늘었다. 스프레드 시장도 덩달아 성장했다. 시중에 판매되는 잼은 보통 과일과 설탕으로 만든다. 설탕이 건강을 해칠까 우려해 과도한 섭취를 꺼리는 사람도 많다. 이러한 우려를 낭만과 감성으로 확 바꿔</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_fb763541-3d0d-11ec-b28e-bd13c193a78e" data-da-position="true">
+					<a href="https://blog.naver.com/use04117/222558124817" class="theme_thumb" data-clk="tcc_far.list5cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1636002580103fMj5V.jpg%22&amp;type&#x3D;nf340_228" alt="다이소 식물 키우기, 조언 좀 해주세요!" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/use04117/222558124817" class="theme_info" data-clk="tcc_far.list5cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">다이소 식물 키우기, 조언 좀 해주세요!</strong>
+						<p class="desc">안녕하세요 지슈몽쉘입니당 🌱 &#x27;다이소 식물 키우기 프로젝트&#x27; 무려 5개월동안 진행되었는데요! 어떤 결과가 나왔을지~~ 함께 보러가요😉 몽쉘이네 텃밭 식구들을 소개합니당! 💚깻잎💚 2021.06.28 뿅! 하고 나온 깻잎 정말 뿌듯한 순간입니당ㅎㅎㅎ 2021.07.03 정말 잘 자라고 있죠~? 매일매일 식물 보는 재미가 있어요 물도 계속 주고싶고~~ </p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">지슈몽쉘</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_f7d80060-3d0d-11ec-9fd8-cb2ad35805f2" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32619755" class="theme_thumb" data-clk="tcc_far.list5cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1636005031347mtxFt.jpg%22&amp;type&#x3D;nf340_228" alt="프랑스, 포도 살충제로 인한 인체 악영향 분석" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32619755" class="theme_info" data-clk="tcc_far.list5cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">프랑스, 포도 살충제로 인한 인체 악영향 분석</strong>
+						<p class="desc">농약 사용 많은 포도 재배지 인근 소아암 집단 발병프랑스 보건 당국, 포도 재배지 인근 주민 대상 대규모 실태조사살충제의 인체 유입 경로 다방면 분석살충제가 인체에 미치는 영향을 면밀히 파악하기 위해 프랑스 보건 당국이 나섰다. 농업지역 인근에 거주하는 주민들을 대상으로 대규모 실태조사를 진행해 살충제 노출 경로와 위험성을 파악하기로 했다.프랑스앵포와 리베</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">EBS뉴스</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_f7d80061-3d0d-11ec-9fd8-eb0811ab35a9" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32234125" class="theme_thumb" data-clk="tcc_far.list5cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1636002819236kjyCq.jpg%22&amp;type&#x3D;nf340_228" alt="효자푸드로 부르자! 해외 인기 K-푸드 7선" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32234125" class="theme_info" data-clk="tcc_far.list5cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">효자푸드로 부르자! 해외 인기 K-푸드 7선</strong>
+						<p class="desc">신종 코로나바이러스 감염증(코로나19) 팬데믹 시대를 맞아 어쩔 수 없는 ‘집콕’과 건강에 꽂힌 ‘진심’으로 K푸드가 뜨고 있습니다. 코로나19로 건강 음식에 관한 관심이 높아진 데다 방탄소년단(BTS) 등 한류 효과로 김치에 대한 수요가 급격히 증가한 건데요. 2020년 수출액이 1억</p>
+						<div class="source_box">
+							<span class="date">2개월 전</span>
+							<span class="source"><span class="source_inner">이투데이</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-5" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="3"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_f13c9e39-3fcd-11ec-ab32-5db48ceb975e" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32647429" class="theme_thumb" data-clk="tcc_far.list6cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_1635924037269sl3jD.jpg%22&amp;type&#x3D;nf340_228" alt="숲자매, 정선에서 다음 세대의 숲을 꿈꾸다!" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32647429" class="theme_info" data-clk="tcc_far.list6cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">숲자매, 정선에서 다음 세대의 숲을 꿈꾸다!</strong>
+						<p class="desc">숲자매숲생활어릴 적 나고 자란 숲속 추억이 삶의 에너지가 되었다는 쌍둥이 자매가 있다. 그리고 그 추억을 도시 사람들과 나누고자 사업으로 구상하고 씩씩하게 실천에 옮겼다. 숲자매숲생활 두 자매를 만나보자.젊음이라는 이름의 도전김정하 김인하 자매의 어린 시절은 정선 산골짜기 집 마당에 소복이 쌓여있다. 그곳엔 시냇물이 흘렀고 원두막과 나무 그네가 있었다. 걷</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">대한민국 산림청</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_fcdf62b3-3d0d-11ec-9fd8-65386974c5c4" data-da-position="true">
+					<a href="https://blog.naver.com/wanjurooo/222557827734" class="theme_thumb" data-clk="tcc_far.list6cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635992913890FKJ2t.jpg%22&amp;type&#x3D;nf340_228" alt="귀촌 4년차, 떠날 수 없는 이유가 생겼어요" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/wanjurooo/222557827734" class="theme_info" data-clk="tcc_far.list6cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">귀촌 4년차, 떠날 수 없는 이유가 생겼어요</strong>
+						<p class="desc">[귀촌 4년차, 완주에서 만난 사람들] ‘강소연’ 2부_ by 은총 안녕하세요. 귀촌 4년차, 행복을 꿈꾸는 김은총입니다! [귀촌 4년차, 완주에서 만난 사람들] ‘강소연’ 2부에서는 강소연씨가 생각하는 ‘완주살이’에 대해 자세히 이야기 나누어 보려고 합니다 :） 질문 1 완주로 귀촌을 꿈꾸는 예술인에게 전해주고 싶은 꿀팁이 있다면?! 도시보다 사람 만날 </p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">완주로 귀농귀촌</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_fb763540-3d0d-11ec-b28e-0b3c950742f4" data-da-position="true">
+					<a href="https://blog.naver.com/rtangree/222558317431" class="theme_thumb" data-clk="tcc_far.list6cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1636002634000OjegB.jpg%22&amp;type&#x3D;nf340_228" alt="우여곡절 끝 스테파니아 에렉타 잎 틔우다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/rtangree/222558317431" class="theme_info" data-clk="tcc_far.list6cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">우여곡절 끝 스테파니아 에렉타 잎 틔우다</strong>
+						<p class="desc">스테파니아 에렉타 성장일기 올해 5월 선물받은 스테파니아 에렉타 현무암 화분에 감자가 올려진 귀염진 모습으로 제게 왔었죠~ 올때부터 새싹이 뿅! 올라오고 있었는데~ 왜이리 더디게 자라는지 스테파니아 에렉타의 모습이 매일매일 궁금하더라구요~ 처음보다 살짝 큰 모습 뿅뿅!! 으하하 넘 귀엽죠? 2021년 여름의 어느날 잎 두장은 더디게 자라는데 꽃이 피더라구요</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">알탱그리</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_fcdf62b2-3d0d-11ec-9fd8-7b8764213196" data-da-position="true">
+					<a href="https://blog.naver.com/rda2448/222557136869" class="theme_thumb" data-clk="tcc_far.list6cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635992804444LIgHm.jpg%22&amp;type&#x3D;nf340_228" alt="겨울맞이 준비하는 즐거운 양평 귀농생활" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/rda2448/222557136869" class="theme_info" data-clk="tcc_far.list6cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">겨울맞이 준비하는 즐거운 양평 귀농생활</strong>
+						<p class="desc">전날까지만 하더라도 반팔을 입고도 덥다고 했는데 갑작스레 불어닥친 한파주의보에 귀를 기울여봅니다. 서울기온이 영상 5도 이하로 떨어진다고 하니 양평은 영하권으로 떨어질 것을 준비해야 했습니다. 🥶 겨울맞이 준비하는 시골의 모습 - 🌱 급하게 고추, 가지, 토마토 등 노지에 있는 열매들을 따놓고 다음날 아침에 보니 된서리를 맞아 가지과 식물은 대부분 끝났</p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">농촌진흥청</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_f13c9e3a-3fcd-11ec-ab32-5b56d1908225" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32650254" class="theme_thumb" data-clk="tcc_far.list6cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_1635925587493nJ55g.jpg%22&amp;type&#x3D;nf340_228" alt="양배추가 위에 좋은 이유는 &#x27;이 성분&#x27; 덕분" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32650254" class="theme_info" data-clk="tcc_far.list6cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">양배추가 위에 좋은 이유는 '이 성분' 덕분</strong>
+						<p class="desc">양배추가 위에 좋다는 이야기, 한 번쯤은 들어보셨을 텐데요. 그 이유가 무엇인지 궁금하진 않으셨나요? 오늘은 양배추의 효능과 알맞게 먹는 법에 대해 알아보겠습니다. 양배추는 고대 그리스 시대부터 즐겨 먹던 채소입니다. 미국 타임지는 양배추를 서양 3대 장수식품 중 하나로 선정하기도 했습니다. 우리나라에서는 1950년대 중후반부터 유엔군 공급용으로 활용되며 </p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-6" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="4"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_bc29f55f-3d35-11ec-85cc-29b905f03ff1" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32582070" class="theme_thumb" data-clk="tcc_far.list7cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211028_1095%2Fupload_1635394059990TlCAb.jpg%22&amp;type&#x3D;nf340_228" alt="복부 팽만감 줄이고 싶다면? 주목할 음식 5" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32582070" class="theme_info" data-clk="tcc_far.list7cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">복부 팽만감 줄이고 싶다면? 주목할 음식 5</strong>
+						<p class="desc">* 제품과는 관련 없는 건강정보입니다.과식을 한 것도 아닌데 배에 풍선이 든 마냥 팽창된 느낌이 드는 증상을 ‘복부팽만’이라고 합니다. 대수롭지 않은 증상으로 여기고 소화제만 먹고 넘어가는 경우가 많지만, 팽만감이 장기간에 걸쳐 지속적으로 나타난다면 근본적인 원인을 개선하기 위한 노력이 필요합니다. 팽만감은 왜 생길까? 복부팽만은 전체 인구의 약 30%가 </p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">락토바이옴</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_bc29f55e-3d35-11ec-85cc-b9ef7da196b6" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32623149" class="theme_thumb" data-clk="tcc_far.list7cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211028_1095%2Fupload_1635393441131tNcIn.jpg%22&amp;type&#x3D;nf340_228" alt="식욕 억제해 비만 치료 돕는 견과류는?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32623149" class="theme_info" data-clk="tcc_far.list7cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">식욕 억제해 비만 치료 돕는 견과류는?</strong>
+						<p class="desc">오래전부터 불로장생, 신선의 식품으로 불려 온 잣은 풍부한 영양과 고소한 맛으로 국내에서 널리 사랑받고 있습니다. 늦여름부터 한겨울까지 제철을 맞이하는 잣은 다른 견과류와는 구분되는 맛과 모양으로 가을과 겨울 동안 우리의 눈과 입을 즐겁게 해주는데요. 그 성분도 남달라 건강에도 이롭습니다. 알고 즐기면 더 맛있고 건강해지는 잣, 그에 관한 흥미로운 정보 7</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">플랜비연구소</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_fe21315b-3d0d-11ec-85cc-99ecbd2b52bf" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222550249311" class="theme_thumb" data-clk="tcc_far.list7cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_16359926514585lWlI.jpg%22&amp;type&#x3D;nf340_228" alt="‘오징어게임’ 인기 열풍 타고 &#x27;K-푸드&#x27; 집중 홍보한다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222550249311" class="theme_info" data-clk="tcc_far.list7cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">‘오징어게임’ 인기 열풍 타고 'K-푸드' 집중 홍보한다</strong>
+						<p class="desc">농림축산식품부가 11월 8일부터 11일까지 4일간 서울 코엑스 그랜드볼룸과 아셈볼룸에서 ‘K-FOOD’ 집중 홍보 행사를 펼친다. 이 행사는 11월 한 달간 열리는 한류 행사인 ‘2021 K-박람회’의 일환으로 열린다. ‘2021 K-박람회’는 한류 콘텐츠를 비롯해 화장품과 한식, 농식품, 수산식품, 패션, 생활용품, 중소기업 국가대표 공동상표 ‘브랜드 케</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_bc29f561-3d35-11ec-85cc-8d901cf6b6f0" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32571847" class="theme_thumb" data-clk="tcc_far.list7cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211021_1095%2Fupload_1634790786392idmTc.jpg%22&amp;type&#x3D;nf340_228" alt="혈관건강 지킴이! 콜레스테롤 낮추는 음식 5" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32571847" class="theme_info" data-clk="tcc_far.list7cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">혈관건강 지킴이! 콜레스테롤 낮추는 음식 5</strong>
+						<p class="desc">서구화된 식습관으로 인해 높은 콜레스테롤 수치를 가지고 있는 현대인들이 많습니다. 이로 인해 혈관계 질환의 발병률이 점점 높아지고 있는데요. 콜레스테롤이 체내에 쌓이게 되면 혈관 안 쪽 벽을 파고들어 각종 염증반응을 일으키게 되고, 콜레스테롤 덩어리들이 뭉쳐져 혈관을 점차 좁히면서 혈관이 막히게 됩니다. 이로 인해 각종 혈관계 질환이 발생하게 되므로 평소 </p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">헬스앤라이프</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_05ed5926-3d0e-11ec-9fd8-65d1fc71adbd" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222428909182" class="theme_thumb" data-clk="tcc_far.list7cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991721095x9y5i.jpg%22&amp;type&#x3D;nf340_228" alt="수험생 체력 지키는 더덕 건강식품 개발한 CEO" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222428909182" class="theme_info" data-clk="tcc_far.list7cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">수험생 체력 지키는 더덕 건강식품 개발한 CEO</strong>
+						<p class="desc">‘삼은 폐화(肺火)를 동하게 하므로 피를 토하거나 오래도록 기침하는 사람, 얼굴이 검으면서 기가 실한 사람, 혈허나 음허한 사람에게는 쓰면 안 된다. 이때 사삼(더덕)으로 대용할 수 있다.’ 『동의보감』에 나오는 구절이다. 인삼이 체질상 맞지 않는 사람들은 찬 성질을 지닌 사삼을 대신 먹었다는 설명이다. 실제로 우리 선조는 열이 많은 사람들에게 인삼이나 홍</p>
+						<div class="source_box">
+							<span class="date">3개월 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-7" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="4"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_bc29f560-3d35-11ec-85cc-57fa432968af" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32596165" class="theme_thumb" data-clk="tcc_far.list8cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211021_1095%2Fupload_16347934418396zaAt.jpg%22&amp;type&#x3D;nf340_228" alt="지중해식 식단이 노화 예방에 좋은 이유" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32596165" class="theme_info" data-clk="tcc_far.list8cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">지중해식 식단이 노화 예방에 좋은 이유</strong>
+						<p class="desc">지중해식 식단에 대해 들어보셨나요? 말 그대로 지중해 연안 지역의 식단을 가리키는데요. 채소, 과일, 생선, 올리브유 등으로 구성됩니다. 동물성 지방 대신 올리브유, 견과류 같은 식물성 지방을 포함하는 것이 핵심입니다. 지중해식 식단을 만들 때는 붉은색 육류와 가공육을 배제합니다. 붉은색 육류 대신 생선과 닭고기를 사용하죠. 정제된 밀가루와 설탕도 지양합니</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_254a98f0-71bf-11eb-b487-b1708fddf789" data-da-position="true">
+					<a href="https://blog.naver.com/krcpolicy/222547688590" class="theme_thumb" data-clk="tcc_far.list8cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_1635921954341CX0Jj.jpg%22&amp;type&#x3D;nf340_228" alt="농지은행 아이디어 및 슬로건 공모전" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/krcpolicy/222547688590" class="theme_info" data-clk="tcc_far.list8cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">농지은행 아이디어 및 슬로건 공모전</strong>
+						<p class="desc">농지은행! 청년의 꿈을 열고, 노년의 행복을 담다! 농지은행 아이디어 및 슬로건 공모전 공모기간 2021.11.08.(월) 09:00 ~ 2021.11.26.(금) 18:00 (19일간) 참여대상 대한민국 국민이라면 누구나 공모주제 대한민국 농업의 미래 &quot;농지은행&quot; 공모분야 V 아이디어 : 농지은행 신규사업 및 기존사업 활성화 아이디어 제안 V 슬로건 : </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">농이터</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_f95a5a1e-3d0d-11ec-b28e-3bf02238596a" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32642866" class="theme_thumb" data-clk="tcc_far.list8cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_16359931450785EbxK.jpg%22&amp;type&#x3D;nf340_228" alt="찬 기운 내보내 감기예방하는 음식 BEST 5" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32642866" class="theme_info" data-clk="tcc_far.list8cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">찬 기운 내보내 감기예방하는 음식 BEST 5</strong>
+						<p class="desc">생강 몸의 찬 기운을 밖으로 내보내고 따뜻함을 유지해 감기 예방에 좋습니다. 생강에 함유된 진저롤과 쇼가올 성분이 혈액순환을 활성화해 몸과 신체 내부를 따뜻하게 유지합니다. 수족냉증 개선에도 효과적입니다. 단호박 베타카로틴이 풍부해 산소 공급과 혈액순환에 도움을 주고 체온 유지에도 효과적입니다. 피로회복을 도와주는 비타민C도 풍부하게 들어있습니다. 단호박 </p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_f95a5a1f-3d0d-11ec-b28e-c19b0fbde817" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32667886" class="theme_thumb" data-clk="tcc_far.list8cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635993114983Il2h6.jpg%22&amp;type&#x3D;nf340_228" alt="이맘때 꼭 생각나는 추억의 엄마표 간식" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32667886" class="theme_info" data-clk="tcc_far.list8cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">이맘때 꼭 생각나는 추억의 엄마표 간식</strong>
+						<p class="desc">사랑과 정성으로 만들어요  언제나 우리 아이에게 좋은 것만 먹이고 싶은 것이 모든 엄마들의 마음. 안심하고 구입할 수 있는 먹을거리가 줄어들면서 엄마들이 직접 아이들 간식 만들기에 나섰다. 싱싱한 유기농 채소부터 유기농 밀가루, 천연 조미료 등 친환경 재료로 만드는 우리 아이 유기농 영양 간식. (자료 ORGANICLIFE DB)  방영아 요리연구가 &amp;am</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">오가닉라이프신문</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_a377ef1a-3dd4-11ec-a335-2ff2c6554606" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32643691&amp;memberNo&#x3D;954004" class="theme_thumb" data-clk="tcc_far.list8cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636074400630vReE6.jpg%22&amp;type&#x3D;nf340_228" alt="제주 오름 고스란히 닮은 인생2막의 공간" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32643691&amp;memberNo&#x3D;954004" class="theme_info" data-clk="tcc_far.list8cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">제주 오름 고스란히 닮은 인생2막의 공간</strong>
+						<p class="desc">제주 호근동 주택제주를 닮은 집을 짓기 위해 거듭한 고민의 끝. 그곳에는 오름의 모습을 담아낸 검은 주택이 서 있었다.울산에서 엔지니어와 아티스트로서 삶을 일구어왔던 건축주 부부는 남들과 마찬가지로, 숨 가쁘게, 또 치열하게 인생이라는 레일을 달려왔다. 자녀들을 대학까지 진학시켜 놓고 잠시 숨을 돌려 뒤를 돌아본 부부. 이제 때가 되었음을 깨달은 건축주는 </p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">월간 전원속의 내집</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-8" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="5"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_56296927-3d13-11ec-85cc-b167d05f2def" data-da-position="true">
+					<a href="https://blog.naver.com/todch612/222551700454" class="theme_thumb" data-clk="tcc_far.list9cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991369814iZwEg.jpg%22&amp;type&#x3D;nf340_228" alt="요거트통 화분으로 홈가드닝" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/todch612/222551700454" class="theme_info" data-clk="tcc_far.list9cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">요거트통 화분으로 홈가드닝</strong>
+						<p class="desc">궁핍 홈가드닝/ 요거트통 재활용, 화분만들기 언젠가부터 요거트를 고르는 기준이 맛과 가격 보다는 화분으로의 쓰임을 더 생각하면서 고르게 되더라구요.ㅎ 요거트통으로 화분을? 식물화분으로 사용하기에 요거트통 크기가 작을 듯도 하지만 의외로 요거트통이 식물 홈가드닝에 두루두루 요긴하게 쓰이고 있어요. 요거트통을 재활용한 저의 &#x27;궁핍 홈가드닝&#x27; 소개해요....</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">소혹성</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_55e96edf-3d12-11ec-b28e-edffcae0e415" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222440978212" class="theme_thumb" data-clk="tcc_far.list9cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635990979548l9C4J.jpg%22&amp;type&#x3D;nf340_228" alt="서울에서도 찾아오는 고창 전통시장" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222440978212" class="theme_info" data-clk="tcc_far.list9cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">서울에서도 찾아오는 고창 전통시장</strong>
+						<p class="desc">전라북도 서쪽에 자리한 고창은 지리적 특성에 따라 서해에서 나는 해산물과 육지에서 나는 농산물로 먹거리가 풍부한 고장이다. 이번 달에는 수박 제철을 맞아 수박의 고장인 고창을 방문했다. 여름 초입이라 햇살이 무척 뜨거웠는데, 푸근한 시장 인심 덕분에 기분은 내내 좋았다. 조선시대부터 이어온 유서 깊은 장, 사랑받는 문화관광형 시장으로 거듭나다 고창전통시장은</p>
+						<div class="source_box">
+							<span class="date">2개월 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_04fe3db3-3d0e-11ec-b28e-3b8150b2f794" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32663578" class="theme_thumb" data-clk="tcc_far.list9cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991476535RJJwO.jpg%22&amp;type&#x3D;nf340_228" alt="냉장고 속 과일 빨리 상하게 하는 범인은?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32663578" class="theme_info" data-clk="tcc_far.list9cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">냉장고 속 과일 빨리 상하게 하는 범인은?</strong>
+						<p class="desc">| 아무 생각없이 사과를 냉장고에 넣으면 안된다고요? 동영상  버튼을 누르면 현재 화면에서 재생됩니다. 아무 생각 없이 사과를 냉장고에 넣으면 벌어지는 일｜크랩 #크랩 #사과 #냉장고혹시 유독 내가 산 과일과 채소만 빨리 상한다는 느낌, 받은 적 있나요? 어쩌면 그 범인은 ‘사과’일지도 모릅니다. 사과는 식물 성장, 노후 호르몬인 ‘에틸렌’을 많이 배출하거</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">KLAB</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_16d24c8b-3d0e-11ec-85cc-9bfb191d1fde" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222528568054" class="theme_thumb" data-clk="tcc_far.list9cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_16359906798268CAiw.jpg%22&amp;type&#x3D;nf340_228" alt="전주 콩나물국밥이 숙취에 좋은 이유는?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222528568054" class="theme_info" data-clk="tcc_far.list9cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">전주 콩나물국밥이 숙취에 좋은 이유는?</strong>
+						<p class="desc">기분 좋게 한 잔, 두 잔 마시다 보면 다음날 찾아오는 반갑지 않은 손님이 있죠. 바로 숙취인데요. 생각만 해도 머리가 어지럽네요. 더농부 독자 여러분은 숙취 해소를 어떻게 하시나요? 저는 저만의 숙취 해소 방법이 있는데요. 바로 콩나물국밥입니다! 뜨끈한 국물 한 입 먹으면 울렁거리는 속이 싸악 내려가는 기분입니다. 내셔널 지오그래픽 ‘숙취에 좋은 9가지 </p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_56296926-3d13-11ec-85cc-37187644b081" data-da-position="true">
+					<a href="https://blog.naver.com/mtmt1277/222551791966" class="theme_thumb" data-clk="tcc_far.list9cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991346851q28ka.jpg%22&amp;type&#x3D;nf340_228" alt="금상추 집에서 자급자족 한다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/mtmt1277/222551791966" class="theme_info" data-clk="tcc_far.list9cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">금상추 집에서 자급자족 한다</strong>
+						<p class="desc">요즘 마트나 시장에 가면 부식 가격을 보고 &quot;허곡&quot;소리와 동공이 커지면서 손이 바들바들 떨릴 정도로 물가가 올라 생활비 걱정이 벌써 되더군요. 기름값은 이제 1700원을 넘길 것 같고 서울 쪽은 벌써 휘발유값이 1800원대 넘지 않았나 싶네요~ 마트에 가서 상추와 깻잎, 그리고 몇 가지 채소들을 담았는데 7천원이 훌쩍! 넘어 버리더라는,,,,,, 기사를 보</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">건강마스터지황련</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-9" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="5"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_a377ef1b-3dd4-11ec-a335-99a0352671fc" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32639300&amp;memberNo&#x3D;375154" class="theme_thumb" data-clk="tcc_far.list10cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211029_1095%2Fupload_1635477989540NUkA4.jpg%22&amp;type&#x3D;nf340_228" alt="외식업계 금기 깨고 불어닥치는 &#x27;까만 바람&#x27;" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32639300&amp;memberNo&#x3D;375154" class="theme_info" data-clk="tcc_far.list10cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">외식업계 금기 깨고 불어닥치는 '까만 바람'</strong>
+						<p class="desc">검은색은 식품업계에서 금기시되는 색입니다. 겉보기에 먹음직스럽지 않아서인데요. 하치만 최근 업계의 오랜 통념을 깨고 식품업계에 &#x27;블랙&#x27; 바람이 불고 있습니다. MZ세대(밀레니얼+Z세대)를 중심으로 SNS에 음식 사진을 올리는 것이 하나의 놀이문화, 일상으로 자릴 잡은 가운데, 음식에 있어 맛은 기본 &#x27;시각적인 요소&#x27;의 비중이 더욱 커지고 있기</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">식품외식경영</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_a377ef18-3dd4-11ec-a335-c76bb8c24689" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222543548011" class="theme_thumb" data-clk="tcc_far.list10cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211027_1095%2Fupload_1635296635875pAYdv.jpg%22&amp;type&#x3D;nf340_228" alt="올 생강 농사 대박!…600g 심어 22㎏ 수확" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222543548011" class="theme_info" data-clk="tcc_far.list10cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">올 생강 농사 대박!…600g 심어 22㎏ 수확</strong>
+						<p class="desc">&quot;생강 만원어치 (600g) 심어서 22키로 수확했으면 성공한 거 아냐?&quot; 오랜만에 어깨에 힘을 주며 말했다. &quot;와! 많긴 한데...&quot; 아내가 말끝을 흐렸다. 내 잘난 체 하는 모습에 뭔가 트집을 잡긴 해야겠는데 적당한 말이 떠오르지 않나 보다. 흐흐흐. 눈앞에 이렇게 생강이 수북이 쌓여 있으니 내가 아무리 얄미운들 무슨 말을 할 수 있을까? 최근 몇 년간</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_e982941e-3d11-11ec-b28e-e52ecefa2d5a" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222523318038" class="theme_thumb" data-clk="tcc_far.list10cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211007_1095%2Fupload_1633572521012EFg2t.jpg%22&amp;type&#x3D;nf340_228" alt="인천 차이나타운 명물 &#x27;하얀 짜장&#x27; 맛 어떨까" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222523318038" class="theme_info" data-clk="tcc_far.list10cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">인천 차이나타운 명물 '하얀 짜장' 맛 어떨까</strong>
+						<p class="desc">태어날 때부터 지금까지 어느덧 N년차 인천 토박이 슬 인턴은 다른 지역에 사는 친구들에게 매번 똑같은 질문을 듣고는 합니다. “전주하면 비빔밥, 강원도하면 감자, 제주하면 한라봉, 부산하면 국밥이잖아. 근데 인천엔 뭐 있어?” 각 지역마다 대표하는 음식이 하나씩 있기 마련인데, 무려 인구 300만이 넘는 인천에 딱 떠오르는 음식이 없다니! 인천을 사랑하는 </p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_1050313f-3d0e-11ec-9fd8-bb857f2e7a32" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222545045931" class="theme_thumb" data-clk="tcc_far.list10cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_16359911777509DpS9.jpg%22&amp;type&#x3D;nf340_228" alt="방목한 닭이 낳는 &#x27;케이지 프리 달걀&#x27; 판매 늘어난다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222545045931" class="theme_info" data-clk="tcc_far.list10cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">방목한 닭이 낳는 '케이지 프리 달걀' 판매 늘어난다</strong>
+						<p class="desc">신념과 가치를 소비로 표현하는 ‘미닝 아웃’ 흐름을 타고 비좁은 육각형 공간의 ‘배터리 케이지’ 닭장에서 생산하는 달걀을 쓰지 않겠다고 선언하는 유통업체가 늘어나고 있습니다. 배터리 케이지는 닭 한 마리가 겨우 들어가는 철제 닭장을 다닥다닥 붙여 놓은 모습이 건전지와 비슷해 붙은 이름입니다. 공장식으로 닭을 기르는 농가들은 배터리 케이지를 쌓아 놓고 닭을 </p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_16d24c8e-3d0e-11ec-85cc-d1b5865b587d" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222280438073" class="theme_thumb" data-clk="tcc_far.list10cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991018465GVYKh.jpg%22&amp;type&#x3D;nf340_228" alt="진도 흑미가 대통령 명절 선물로 선정된 이유" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222280438073" class="theme_info" data-clk="tcc_far.list10cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">진도 흑미가 대통령 명절 선물로 선정된 이유</strong>
+						<p class="desc">쌀이라고 하면 하얀 백미를 먼저 떠올리지만 백미 외에도 흑미, 적미, 녹미 등 다양한 색깔의 쌀이 있습니다. 유색미를 넣어 밥을 지으면 보기에도 좋고, 영양도 더욱 풍부해지는데요. 오늘은 여러 유색미 중에서도 검은 진주라고 불릴 만큼 높은 가치를 인정받는 흑미에 대해 알아보겠습니다. 중국의 고대 농서인 &lt;제민요술&gt;에 따르면, 흑미는 중국 북위시대부터 재배되</p>
+						<div class="source_box">
+							<span class="date">7개월 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-10" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="6"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_148798d8-3d0e-11ec-b28e-f5b248de69f5" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222557070082" class="theme_thumb" data-clk="tcc_far.list11cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991088377upbdk.jpg%22&amp;type&#x3D;nf340_228" alt="고품질 전략 덕분? 일본 과일 생산액, 한국의 2배" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222557070082" class="theme_info" data-clk="tcc_far.list11cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">고품질 전략 덕분? 일본 과일 생산액, 한국의 2배</strong>
+						<p class="desc">한국의 1인당 과일 소비량은 일본보다 많지만, 재배면적 당 과일 생산액은 일본보다 낮아 과일 농가의 소득 제고 방안이 필요해 보입니다. 한·일 모두 하루 평균 과일 소비량은 세계 평균인 215g보다 적습니다. 2020년 국제연합식량농업기구(FAO)가 국가별 성인 1인당 하루 평균 과일·채소 소비량을 발표했는데, 한국 과일 소비량은 162g으로 172개국 중</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_a40d03cb-3d35-11ec-b28e-df52aecb42fc" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32541336" class="theme_thumb" data-clk="tcc_far.list11cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211021_1095%2Fupload_16347811215055ZEvE.png%22&amp;type&#x3D;nf340_228" alt="10월의 채소 대파·생강, 맛있게 먹는 법" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32541336" class="theme_info" data-clk="tcc_far.list11cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">10월의 채소 대파·생강, 맛있게 먹는 법</strong>
+						<p class="desc">대파 #노화 방지 #면역력 증가 #다이어트 대파에 들어있는 베타카로틴은 활성산소를 효과적으로 제거해 노화 방지에 좋습니다. 향균작용이 뛰어난 알리신이 풍부하게 들어 있어 면역력을 높여주고 감기 예방에도 효과적입니다. 식이섬유가 퐁부해 숙변 제거에도 효과적입니다. 콜레스테롤의 체내 흡수를 억제하는 효과도 있어 비만 예방과 다이어트에도 좋은 채소입니다. 어디에</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_1df2f1ef-3d0e-11ec-85cc-ff8f06360b44" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222548615039" class="theme_thumb" data-clk="tcc_far.list11cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635990431312v9U2p.jpg%22&amp;type&#x3D;nf340_228" alt="父子 정성, 상황버섯으로 가족사랑 우려내다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222548615039" class="theme_info" data-clk="tcc_far.list11cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">父子 정성, 상황버섯으로 가족사랑 우려내다</strong>
+						<p class="desc">현대사회는 ICT(정보통신기술)의 발달 등으로 급변과 동시에 다변이라는 흐름을 만들었다. 그렇더라도 지구촌 전체를 관통하는 불변의 가치들은 여전히 존재한다. 가장 대표적인 것은 가족, 그리고 사랑일 것이다. 가족사는 가족 구성원 모두의 인생에 영향을 미친다. 구성원 모두는 가족을 위해 중요한 선택과 결정을 한다. 가족은 구성원 모두에게 삶의 지표가 되기도 </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_04fe3db4-3d0e-11ec-b28e-65c372c91ee4" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32665222" class="theme_thumb" data-clk="tcc_far.list11cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211104_1095%2Fupload_1635991557624LZLPv.jpg%22&amp;type&#x3D;nf340_228" alt="주말이라고 늦잠 자면 불면증 찾아온다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32665222" class="theme_info" data-clk="tcc_far.list11cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">주말이라고 늦잠 자면 불면증 찾아온다</strong>
+						<p class="desc">스트레스, 불안, 우울증, 알코올, 카페인, 니코틴, 불편한 침대 등 불면증에는 많은 원인이 있다. 하지만 영국 공공 의료 서비스인 NHS는 불면증은 보통 수면 습관을 바꿈으로써 치료될 수 있다고 강조했다. 불면증을 유발하고 깊은 잠을 자지 못하게 하는 ‘잠자기 전에 저지르는 여섯 가지 실수’를 살펴보자. 1. 술 마시는 것적어도 잠들</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">메디컬리포트</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_1c6eb975-3c88-11ec-b28e-dd419c0bda68" data-da-position="true">
+					<a href="https://blog.naver.com/PostView.nhn?blogId&#x3D;slds2&amp;logNo&#x3D;222554973928&amp;navType&#x3D;by" class="theme_thumb" data-clk="tcc_far.list11cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_1635925632012ODcav.jpg%22&amp;type&#x3D;nf340_228" alt="여름 생선이라는 농어, 가을에 가장 맛있다?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/PostView.nhn?blogId&#x3D;slds2&amp;logNo&#x3D;222554973928&amp;navType&#x3D;by" class="theme_info" data-clk="tcc_far.list11cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">여름 생선이라는 농어, 가을에 가장 맛있다?</strong>
+						<p class="desc">흔히 우럭, 광어, 참돔, 방어 등은 겨울에 먹어야 제맛을 내는 생선회로 알고 있다. 찬 바닷물로 살이 탱글탱글할 뿐 아니라 봄 산란을 앞두고 한창 살을 찌우기에 지방 맛도 뛰어나다는 것이 그 이유다. 하지만 일 년 열두 달 사료로 관리되는 양식은 예외다. 수조 속 바닷물도 14도 전후로 조절하기 때문에 양식 활어에서 수온을 논하는 것도 크게 의미는 없다.</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">입질의 추억</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-FARM-MOBILE-RANKING-DEFAULT-11" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="6"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+
+				<li class="theme_item" data-gdid="CAS_90961dc7-3c75-11ec-9fd8-bd9fe5934cdc" data-da-position="true">
+					<a href="https://blog.naver.com/kecoprumy/222556365918" class="theme_thumb" data-clk="tcc_far.list12cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_1635926013608WlZSl.jpg%22&amp;type&#x3D;nf340_228" alt="비우니 가볍다! &#x27;미니멀라이프&#x27; 직접 해봤다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/kecoprumy/222556365918" class="theme_info" data-clk="tcc_far.list12cont1" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">비우니 가볍다! '미니멀라이프' 직접 해봤다</strong>
+						<p class="desc">안녕하세요, 한국환경공단 대학생 기자단 푸루美 10기 김세빈입니다. 여러분께서는 최근 주목받고 있는 친환경 트렌드, ‘미니멀 라이프’에 대해 들어보셨나요? 미니멀 라이프는 삶에 필요한 최소한의 물건으로 살아가는 삶을 의미하는 단어로, 과소비로 인한 낭비 및 폐기물 처리로 인한 환경오염을 막고자 떠오르고 있는 라이프 트렌드입니다. 저는 이번에 불필요한 소비를</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">한국환경공단</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_bff30e43-3c75-11ec-b28e-e91c6f8b6332" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222535674139" class="theme_thumb" data-clk="tcc_far.list12cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_16359238674307rDaW.jpg%22&amp;type&#x3D;nf340_228" alt="텃밭서 토종작물 지켜 나가는 &#x27;횡성언니들&#x27;" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222535674139" class="theme_info" data-clk="tcc_far.list12cont2" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">텃밭서 토종작물 지켜 나가는 '횡성언니들'</strong>
+						<p class="desc">‘언니네텃밭’은 이름부터 왠지 친숙하다. 횡성언니네텃밭의 언니들은 여성 고령자 농업인들이다. 횡성 토박이로 오랫동안 농사를 지었거나 횡성으로 귀농해 농업인이 된 이들이다. 언니들은 소농으로 직접 지은 농작물을 꾸러미로 만들어 소득을 올리고, 많은 사람들과 더불어 살기 위한 다양한 사업을 펼치며 힘을 모으고 있다. 지속가능한 농촌을 위해 나날이 발전하는 언니</p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_a315d596-3c75-11ec-b28e-0d5d726749f7" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222550905642" class="theme_thumb" data-clk="tcc_far.list12cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_1635924650397JipzD.jpg%22&amp;type&#x3D;nf340_228" alt="&#x27;김장대란&#x27; 없다…배추 도매가 평년보다 34% 낮아" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222550905642" class="theme_info" data-clk="tcc_far.list12cont3" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">'김장대란' 없다…배추 도매가 평년보다 34% 낮아</strong>
+						<p class="desc">광주 양동시장 배추 4000원·무 2000원 농식품부, 이달 말 수급대책 발표 “무름병 확산에도 작황은 평년 수준” 올해 김장 규모 22.1포기…‘소폭 감소’ 가을배추 생산량이 지난해보다 줄지만 수요 감소의 영향으로 김장철 가격 상승 폭은 크지 않을 것으로 전망됐다. 4인 가구 김장 규모는 배추 22.1포기로, 전년(21.9포기)과 비슷할 것으로 보인다. </p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_500d1b24-3dd4-11ec-a335-975de9c8f5ae" data-da-position="true">
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32669292" class="theme_thumb" data-clk="tcc_far.list12cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211105_1095%2Fupload_1636074260579tTtxp.jpg%22&amp;type&#x3D;nf340_228" alt="지하부터 2층까지 층마다 마당 갖춘 집" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://post.naver.com/viewer/postView.naver?volumeNo&#x3D;32669292" class="theme_info" data-clk="tcc_far.list12cont4" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">지하부터 2층까지 층마다 마당 갖춘 집</strong>
+						<p class="desc">마당 향한 집지하부터 2층까지 어디서나 크고 작은 마당을 만날 수 있는 곳. 가족의 공간이 서로 바라보고, 모여 이야기하는 집으로의 짧은 여정은 언제나 따듯하고 보드랍다.경기도 용인 동백지구, 곳곳에 공사가 한창인 이곳 홀츠하임 2차 단독주택용지에 단란한 네 식구의 집이 모습을 드러냈다. 가족이 따로 또 같이, 어울려 살아갈 수 있도록 세심하게 고민한 배려</p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">월간 전원속의 내집</span></span>
+						</div>
+					</a>
+				</li>
+
+				<li class="theme_item" data-gdid="CAS_90961dc6-3c75-11ec-9fd8-9dd8c9ac8bdd" data-da-position="true">
+					<a href="https://blog.naver.com/nong-up/222545015086" class="theme_thumb" data-clk="tcc_far.list12cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fstatic%2Fwww%2Fmobile%2Fedit%2F20211103_1095%2Fupload_163592588474782klM.jpg%22&amp;type&#x3D;nf340_228" alt="친환경이라더니 플라스틱을 더 썼다고?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/nong-up/222545015086" class="theme_info" data-clk="tcc_far.list12cont5" target="_blank">
+						<em class="theme_category"> FARM</em>
+						<strong class="title elss">친환경이라더니 플라스틱을 더 썼다고?</strong>
+						<p class="desc">MZ세대 가치소비로 커진 친환경 시장 위장환경주의 그린워싱 제품 함께 늘어 가치소비에 민감한 MZ세대를 겨냥한 친환경 제품이 쏟아져 나오고 있습니다. 친환경 시장 규모도 크게 늘어났습니다. 친환경 관련 소매시장 규모는 2010년에 16조 원으로 집계되었고 2020년에는 30조 원을 넘어섰습니다. Z세대를 상대로 한 설문조사를 보면 응답자 84.7%가 환경적</p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">더농부</span></span>
+						</div>
+					</a>
+				</li>
+
+		</ul>
+	</div>
+</div>
+
+
+	<p class="alert_msg" data-clk-prefix="tcc_far">FARM 판의 컨텐츠는 <a href="https://blog.naver.com/nong-up/220975485272" data-clk-suffix="corp" target="_blank">㈜아그로플러스</a>에 의해 운영·편집 됩니다.</p>
+
+
+
+	<div class="btn_more_wrap">
+		<button type="button" class="btn_more" data-clk-custom="tcc_far.more" data-next-page="2"><i class="ico_more"></i>새로운 글 더보기</button>
+	</div>
+
+
+	</div>
+</div>
+ </div> </div> <div id="NM_INT_RIGHT" class="column_right"> <div class="column_fix_wrap"> <div id="da_brand"></div>
+<div class="sc_my" style="height: 135px;">
+<iframe id="minime" name="minime" data-iframe-src="/my.html" title="MY" style="position:relative;width:390px;height:135px;border:0px" frameborder="0" framespacing="0" marginheight="0" marginwidth="0" scrolling="no" vspace="0">
+</iframe>
+</div>
+
+ <div id="timesquare" class="sc_timesquare"> <h2 class="blind">타임스퀘어</h2> <div class="card_wrap">
+<div class="card_nav">
+<a href="#" role="button" class="btn_nav btn_prev" data-clk="squ.pre"><span class="blind">이전</span></a>
+<a href="#" role="button" class="btn_nav btn_next" data-clk="squ.next"><span class="blind">다음</span></a>
+</div>
+<div id="NM_TS_ROLLING_WRAP" style="height: 100%;">
+<div>
+<a href="https://search.naver.com/search.naver?sm=top_hty&amp;fbm=0&amp;ie=utf8&amp;query=%EC%BD%94%EB%A1%9C%EB%82%9819" class="card_news" data-clk="squ.line3"><i class="news_badge">이슈</i><span class="news">코로나바이러스감염증-19 현황</span></a>
+</div>
+<div>
+<a href="https://finance.naver.com/world/sise.nhn?symbol=RUI@RTSI" class="card_stock " data-clk="squ.rus">
+<strong class="stock_title">증시</strong>
+<div class="stock_box">
+<em class="name">러시아</em>
+<strong class="current">1,868.53</strong>
+<span class="rate rate_up">3.07 +0.16%</span>
+</div>
+</a>
+</div>
+<div>
+<a href="https://finance.naver.com/world/sise.nhn?symbol=XTR@DAX30" class="card_stock " data-clk="squ.ger">
+<strong class="stock_title">증시</strong>
+<div class="stock_box">
+<em class="name">독일</em>
+<strong class="current">16,067.47</strong>
+<span class="rate rate_up">20.95 +0.13%</span>
+</div>
+</a>
+</div>
+<div>
+<a href="https://finance.naver.com/world/sise.nhn?symbol=STX@SX5E" class="card_stock " data-clk="squ.euro">
+<strong class="stock_title">증시</strong>
+<div class="stock_box">
+<em class="name">유로스톡스50</em>
+<strong class="current">4,351.76</strong>
+<span class="rate rate_down">0.77 -0.02%</span>
+</div>
+</a>
+</div>
+<div>
+<a href="https://finance.naver.com/marketindex/exchangeDetail.nhn?marketindexCd=FX_USDKRW" class="card_stock type_exchange" data-clk="squ.usd">
+<strong class="stock_title">환율</strong>
+<div class="stock_box">
+<em class="name">USD</em>
+<strong class="current">1,178.00</strong>
+<span class="rate rate_down">6.00 -0.51%</span>
+</div>
+</a>
+</div>
+</div>
+</div> <!-- EMPTY --> </div>  <div id="veta_branding"> <iframe id="da_iframe_rolling" name="da_iframe_rolling" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10601&amp;nrefreshx=0" data-veta-preview="main_rolling" title="광고" width="350" height="200" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe> <span class="veta_bd_t"></span> <span class="veta_bd_b"></span> <span class="veta_bd_l"></span> <span class="veta_bd_r"></span> </div> <div id="shopcast" class="sc_shopcast"> <iframe id="shopcast_iframe" data-iframe-src="/shoppingbox/shoppingboxnew/main.nhn?domain=Y" title="쇼핑캐스트" width="350" height="1539" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe> </div> </div> </div> <a id="NM_scroll_top_btn" href="#wrap" class="content_top"><span class="blind">TOP</span></a> <button id="NM_darkmode_btn" type="button" role="button" class="btn_theme" aria-pressed="false"  > <span class="blind">라이트 모드로 보기</span> </button> </div> <div id="footer" role="contentinfo"> <div class="footer_inner"> <div class="banner_area"> <div class="da_box_wrap">    <div id="da_public_left"> <iframe id="da_iframe_bottom_left" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10641&amp;nrefreshx=0" title="광고" width="350" height="86" scrolling="no" frameborder="0"></iframe> </div> <div id="da_public_right"> <iframe id="da_iframe_bottom_right" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10642&amp;nrefreshx=0" title="광고" width="350" height="86" scrolling="no" frameborder="0"></iframe> </div> <div id="veta_time2"> <iframe id="da_iframe_below" name="da_iframe_below" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10640&amp;nrefreshx=0" data-veta-preview="main_below" width="350" height="86" scrolling="no" frameborder="0" title="광고"> </iframe> </div> </div> </div> <div class="notice_area" data-clk-prefix="ntc"> <div class="notice_box"> <h3 class="title"><a href="https://www.naver.com/NOTICE">공지사항</a> </h3> <!-- EMPTY --> </div> <a href="more.html" class="link_all" data-clk="svcmap">서비스 전체보기</a> </div> <div class="aside_area"> <div class="partner_box_wrap"> <div class="partner_box" data-clk-prefix="crt"> <h3 class="title">Creators</h3> <a href="https://www.navercorp.com/service/creators" class="link_partner" data-clk="creator">크리에이터</a> <a href="https://www.navercorp.com/service/business" class="link_partner" data-clk="smbusiness">스몰비즈니스</a> </div> <div class="partner_box" data-clk-prefix="crt"> <h3 class="title">Partners</h3> <a href="https://campaign.naver.com/smefullcare/online/" class="link_partner" data-clk="sme">SME 풀케어 시스템</a> <a href="https://business.naver.com/service.html" class="link_partner" data-clk="service">비즈니스 · 광고</a> <a href="https://sell.storefarm.naver.com/#/home/about" class="link_partner" data-clk="store">스토어 개설</a> <a href="https://smartplace.naver.com" class="link_partner" data-clk="place">지역업체 등록</a> <a href="https://expert.naver.com/expert/introduction?tab=guide#join" class="link_partner" data-clk="expert">엑스퍼트 등록</a> </div> <div class="partner_box" data-clk-prefix="crt"> <h3 class="title">Developers</h3> <a href="https://developers.naver.com" class="link_partner" data-clk="center">네이버 개발자 센터</a> <a href="https://developers.naver.com/docs/common/openapiguide/#/apilist.md" class="link_partner" data-clk="openapi">오픈 API</a> <a href="https://naver.github.io" class="link_partner" data-clk="opensource">오픈소스</a> <a href="https://d2.naver.com" class="link_partner" data-clk="d2">네이버 D2</a> <a href="http://d2startup.com" class="link_partner" data-clk="naverD2SF">네이버 D2SF</a> <a href="https://www.naverlabs.com" class="link_partner" data-clk="labs">네이버 랩스</a> </div> </div> <div class="service_box_wrap"> <div class="service_box" data-clk-prefix="wbd"> <a href="http://whale.naver.com/" class="service_logo" data-clk="bt"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAC91BMVEUAAACE1dAbf6jE1Nq/z9e82drQ3OG7ytOzws+6x9QNs7MeLpQSx60QrLAfL50gMakTxKyzwc8fMacSr6yywc8fMKIdLYzJ1d4KrrW6ydMJrrUbr6QgMKW2xNEcr6W7ydUfL5cIr7XBztgMtbMeL50fMaQQzrI0tK4cLIQUvqsVvqofMKLL0eGzxM+4xtIZuKcJr7XCyNt0xsILsLW1w9AdLYZwvL8gMaoeLY6CzMceLYyxz9fI1d0JwLMeLY4KrbXFzeAgMqvN2OEIrLUGsrVIurMfLpAcLIIIsbVWs7MeLpXIzt0UvakgMqwfL5x4wcEJsLYfMagWt6k6qqoil6DV2+UdK4EeMoEfLpOzws4/s7YgMacXvqoC27QcK38B17TE1dobKW0bKnID0bTP3OACzrQcKngcLIMbKXAD07QeLYfi6uzY4+YfLpDN2+DK2d0cK3zU4eTS3+IFzLQeL5ccKnXk7O7G19wgMJ3R3uHa5ejL2t7c5unI2Nzg6esBxrMfMKPp7vEeLYrr8fMNr7X2+PkeLYzt8vQE2LTx9fYfLpPz9/gHyLMOsrUHr7UCybQLs7YKu7UIuLUFvLQGwbUIxbQGw7QcKnTZ5OfV4uUJv67e5+rd5+rl7e8Ju6z3+vvm7vDp8PHs8vPw9fbv9PUgMaj6/PwgMqwJs6kNw7AFubULtrUGtbUJvrQEv7QAwq8MrqYKuKsKtqn+/v4Osaf7/P0K1rMHq6UeqKQNqKQhNoIgSH0Vvqoie5MhWIdV3cAcsaYhhZoglJkdLXnJ7+ia5tU61rgp1rceoKIhb4whZYgcM3fj9vJw3sdJx7xtd6sXt6hCT5AvPpAfPYQbKIMcJ34fP3q+8uSy49ux0tWd2NKYzM+A48yE08t6xchdv8FP0b1zfbcSpKIgToEbJ3nE5OG12Nmn19WM5tGKk8ehqMZlxcJJuLwgtLcbvbYc2bUTtaknNpA1Q4bZ7uuzuNuP3M9p0cNfbLUKtq5IVqk8Sp8jZpxaZZrUCA9eAAAAXXRSTlMABAj99BcO6IpfLhj9hPLp5ryyq6ZzXDnd2cuYkHtzbFFOQj0yJv76+ebc29fXx8TCuJuVlIqHgX5gPS0kEvn49/f08O3t6+fj2tLR0MzGeGNfWvbz7sXBpYN4PB4CDkIdAAAFcUlEQVRo3q3TdVwTYRjA8eeI0SKgYnd3d3d362tgO7u7Y4rd3d2K4pwwQkAQJUSxu7vbPzwYg9vufe+eO/neP9vtPr/n7t53gFMobxXPVu719pu4t/LM2a4gBwioeGZP9/0U9TyrFEyHepUSeyW45+wB/8GmXetZskpkdlGbz+w+CyVDThdV+QyT0FSMyFtikiIZMnOggIvnOMWaFwS0LBkkQj/q/mL8UpVDvv2ui6V89XvF+qm1C2rnNx8u6ferq8zfGlcHWdUbD/8PtbPI7p7aC5R49Mn6TFWZ5Z2jzKNPolOVJPtD04HEhLxFh6YH5lsqWHQQ1dVBCjFW2qUJo+8Xq3BAUeputenci27Qo6u9FGpC+8dV6pUODAZDQkKCwdAFRNz+s2wMiYwbQkwi7oWVBCvOHUep9yQkTkfMIsIv+/HygKVigaPoYuMFX+InGEQXJIS4kjRBN/b5JZutAaHcxDhQ3gVD7AWrU0a9TpgPO5OqnMUOciWJA9O8jh+IYwwmAhE39gnMrwFpchByQXCjn/kvCOf1ROil7z4LgnWuVZiQ8UpFh/gTgYs3tlvzFj4AiVbYN7oSoaDL20VaQAou6drE9UpcCCUWruyeL+ZbM3UL8Yw+YrHD4n2ozgdY9X3n05g3UnHCC6R0Xvv9pfaj/ImFoN3zqbQcJOlJkugpofWfafnoSGIp4rIvg5N5iXn+0aIS7vUQ/zBfFtMyFyPJogajXOpHrIQvYprNJf0JiEkAJu8TQqwF7VnE5mTaQyaX5PvRwUQkbLeEpH1UhqRw9ZHrP3ElInf3SOkEABmJWWhfaVG9iciHywulzNWAjY6kuiSV9wklFOELpeWHAsINZ2T3+d1JcXHrLmkVITcRGMJ8hsDehCZ8rozSkINYCKTmn8QRQn8AuQElwYtYCj4vyieG6gjdy51y6kMZYkUXmmj58kP9CcOHL7PlaKElEdEFR5031wPjCNvd2fKgOKHqF6CP1AeI7j1k+PA/aSfDdsiDjESBgDm8SJIiaCuCsgH6a7xAkuLmBASFA67zzAMuanEDdAoUHvX06dNgncldLQYU763Ex6hLkebPz7TaCfIHtOyt0kMtCpRROyAc1R8GXvy1Q1Qc/htmYNQFtyHqXEH1N2eD9ioH3NyM4gHO/VSJ2IKTC7ixqgZ8m4bjDVBMTb/waFx/IwfgNUCFK1NwHACgvZoBN5EDMgGAzRJWZSyz/3ADkjfwGo1V7PYwnPoc8MovZ2Dll18cjRzgAUnsDy5hYE24NwwpPyRrNJNuOcOSZxtx7MCk2kG6JQzfRyM5Qooix2lmsjxH9qdqIEX5TTRrGR6OQcoEZlwRSp/5BC/GjEYdI+whVfltYgfX0sXgH0CgiKh/fB3D7ck4thoQqHbS2kFGP2YyUi6w0OyUpW1rGG73x3HgwIJ98AGhU0cZ/Rhkf2oNsNLGYsC2YwwvkAMcQaTZ6TQfjzK8QfazcSDCdTiRajXD++cjUOzsgaKG3tz/uZLhHq4/PT9QVTt3NtmB1QwxI3EDnIChzeNzvLMrGd7fmoriCEyVH/P9Qyx3cP2KAJITDq9iuD8SxREkdT/C6j+Yjup3A0nOTQ8zPJiIyds6gaQCDY8wvJk4HcHOGyS1XbqC4f50jNL2IMWmwlKGd3cmItjmknn92VcwvL2F6ZeqKX37bszbv98HwU5mdfNlncfw4FYf3kSpg887aqQ3T1lW/u2dPnLk8/nKLmMoW9nDVjZfyomTzjdl1BtWcAYA+zylpGY4ONYEOc5u2evMs5a1QoHU+9I4ZXKwpcU98tgDDufc1s0re9YGdZYta5A1u5dbvlpgReOdp6JHNgc7fpCtnUO20ply5UfG/wEFXaai/lOVTwAAAABJRU5ErkJggg==" alt="웨일" width="48" height="48"> </a> <div class="service_info"> <strong class="title">웨일 브라우저</strong> <a href="http://whale.naver.com/" class="dsc" data-clk="bt">다운받기</a> </div> </div> <div class="service_box" data-clk-prefix="prj"> <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%BD%83" class="service_logo" data-clk="link"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAABkCAMAAAA47XeXAAAAgVBMVEUAAADN5PdGm99Gm99Gm99Gm99Gm95Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gmt9Gm99Gm99Gm99Gm95Gm99Gm99Gm95Gm99Hm99Gm99Gm9/////3+/5cp+LO5PfR5/fO5fdcp+P7/f/zv5GhAAAAInRSTlMA/v7vH9u5qJNgGwb6l8a9uqF9WFUyLxYMCtbVmLCwe4OCj8gzEgAAA0NJREFUaN7NmmFz4iAQhkkwMTHGWrWtWvWuq8mF+/8/8Ey2nb0OhSwQZnw+MHQ7pbjAy2s2gsuiLPJMLpcyy4tyISZltnmHbxw3MzEVr/MUNNL5q5iCt2ccXCN9fhPB7CQYkTsRRlWDlboSAexzGCHfC28OKxhldfDOzBMwePLNTw0sauHFFphshQcLCUwkaQRfXYBPSkrEUBdv3jezcXXhw1ciUhc+fCUidQlH7qzqEk5d2dQlnHxvU5dwVgdXdSGclaiGyamt6hLO1qIu4ZASzcFE092SBprk1jagulvXAAw/qb5N7m176xQYmOPoLymYaK/X65/PNhlagE6LGUhfRM8FjNzuf/73//bHmInzoJEpjMyeWpp9RzGz/PT6+QvMNO2Q+67PPeYZY5h7jDVg5OM+/BGikd13JfDAj/Ad1WLMyEyUwKPT00ypN1GKAljQJtFiFgqRe86eYhbWIvPPPR5d+9pKiIgUwKNJdHXBvW9jyRye1EWLWYfnJcd141Byspizz7gbUyWDuqiW0v15D9g3ZgF86JwyKUgUHJaATUmS5rsEdkkTZLjZS8Alw+skFr8Nl6H6uosShaKOp3Zo+/jgFTDe+wcSfv0yFGfQaLX7tDO0reXOPRuMCG4Q11Y3IiYblWgzS7R+h31qdRtlGB7zikeUckz+AB3a8FuMqD7Cd2nhUHLOEIkLubQIkEuLxIdwEwUy3HyXxsbgPMJcGuGox+TSIugxuTQ+KHIaAS5N92eIIuMT5tJoPfHy5q9yKoXLelLuKRri0mjMQdhwTPw6Sv8pzKXhFyhNilEwkSCXRrnAnaPnJdyl0UrqXircpeHVglnv+62K4NJo3lFcGmWd79KO7OQoXAE8XNO6tIQGxj7fpfHTwk8RubQLWEGvgTNGKzj01fixunCMCCYcvSSlaFwUyKVx86J3bczpUR3zimq1LqdosAUbJF54ar+uk5Gju436mPTk8ZAXFdO93HRYTesUVgf3B+y0XdxLfdVputmfKp/iBtNjyl3c0kzUwtJIWewIPvAL9LOyWLsV9WAps3VRzh6hJBm3oOqsRKfHLGYzS/GP+iLBuBKdqkd+iWPkFZTHf4Em4us/uhI5qss/6zK5u8+AXpwAAAAASUVORK5CYII=" alt="꽃" width="47" height="50"> </a> <div class="service_info"> <strong class="title">프로젝트 꽃</strong> <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%BD%83" class="dsc" data-clk="link">바로가기</a> </div> </div> </div> </div> <div class="corp_area" data-clk-prefix="plc"> <h3 class="blind">네이버 정책 및 약관</h3> <ul class="list_corp"> <li class="corp_item"><a href="https://www.navercorp.com" data-clk="intronhn">회사소개</a></li> <li class="corp_item"><a href="https://recruit.navercorp.com/naver/recruitMain" data-clk="recruit">인재채용</a></li> <li class="corp_item"><a href="https://www.navercorp.com/naver/proposalGuide" data-clk="contact">제휴제안</a></li> <li class="corp_item"><a href="/policy/service.html" data-clk="service">이용약관</a></li> <li class="corp_item"><a href="/policy/privacy.html" data-clk="privacy"><strong>개인정보처리방침</strong></a></li> <li class="corp_item"><a href="/policy/youthpolicy.html" data-clk="youth">청소년보호정책</a></li> <li class="corp_item"><a href="/policy/spamcheck.html" data-clk="policy">네이버 정책</a></li> <li class="corp_item"><a href="https://help.naver.com/" data-clk="helpcenter">고객센터</a></li> </ul> <address class="addr"><a href="https://www.navercorp.com" target="_blank" data-clk="nhn">ⓒ NAVER Corp.</a></address> </div> </div> </div> </div> <div id="adscript" style="display:none"></div> </body> </html>
